@@ -4,6 +4,10 @@ em.first {
     font-style: normal;
 }
 
+em.journal {
+    text-decoration: underline;
+}
+
 .cover {
     background-size: 300px 400px;
     display: block;
