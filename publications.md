@@ -3,15 +3,19 @@ layout: default
 title: Publications
 ---
 
-<h2>Publications</h2>
+## Publications
 
-<h3>Journals Papers</h3>
+Please refer to the [Google Scholar](https://scholar.google.com/citations?user=1aABd5gAAAAJ&hl=en) page for a full publication list.
+
+[[Journal Papers]](#journal-papers) [[Conference Papers]](#conference-papers) [[Book Chapters]](#book-chapters) [[Granted Patents]](#granted-patents)
+
+### Journal Papers
 
 <ol>
     <li><em class='first'>C. Li*</em>, C. E. Graves*, X. Sheng, D. Miller, M. Foltin, G. Pedretti, J. P. Strachan*, “<a href="https://www.nature.com/articles/s41467-020-15254-4">Analog content addressable memories with memristors</a>”, <em class="journal">Nature Communications</em>, 11, 1638 (2020) </li>
-    <li>P. Lin, <em class='first'>C. Li</em>, Z. Wang, Y. Li, H. Jiang, W. Song, M. Rao, Y. Zhuo, N. K. Upadhyay, M. Barnell, Q. Wu, J. J. Yang*, Q. Xia*, “<a href="https://www.nature.com/articles/s41928-020-0397-9">Three-dimensional memristor circuits as complex neural networks</a>”, <em class="journal">Nature Electronics</em>, 2020 (in press)</li>
+    <li>P. Lin, <em class='first'>C. Li</em>, Z. Wang, Y. Li, H. Jiang, W. Song, M. Rao, Y. Zhuo, N. K. Upadhyay, M. Barnell, Q. Wu, J. J. Yang*, Q. Xia*, “<a href="https://www.nature.com/articles/s41928-020-0397-9">Three-dimensional memristor circuits as complex neural networks</a>”, <em class="journal">Nature Electronics</em>, 3, 225 (2020)</li>
     <li><em class='first'>C. Li</em>, Z. Wang, M. Rao, D. Belkin, W. Song, H. Jiang, Y. Li, P. Lin, M. Hu, N. Ge, J. P. Strachan, M. Barnell, Q. Wu, R. S. Williams, J. J. Yang*, Q. Xia*, “<a href="https://www.nature.com/articles/s42256-018-0001-4">Long short-term memory networks in memristor crossbars</a>”, <em class="journal">Nature Machine Intelligence</em>, 1, 49–57 (2019). </li>
-    <li>Z. Wang†, <em class='first'>C. Li†</em> († <em>equally contributed</em>), P. Lin†, M. Rao, Y. Nie, W. Song, Q. Qiu, Y. Li, P. Yan, J. P. Strachan, N. Ge, N. McDonald, Q. Wu, M. Hu, H. Wu, R. S. Williams, Q. Xia, J. Joshua*, <a href="https://www.nature.com/articles/s42256-019-0089-1">"In situ training of feedforward and recurrent convolutional memristor networks"</a>, <em class="journal">Nature Machine Intelligence</em>, 1, 434 (2019).
+    <li>Z. Wang†, <em class='first'>C. Li†</em> († <em>equally contributed</em>), P. Lin†, M. Rao, Y. Nie, W. Song, Q. Qiu, Y. Li, P. Yan, J. P. Strachan, N. Ge, N. McDonald, Q. Wu, M. Hu, H. Wu, R. S. Williams, Q. Xia, J. Joshua*, <a href="https://www.nature.com/articles/s42256-019-0089-1">"In situ training of feedforward and recurrent convolutional memristor networks"</a>, <em class="journal">Nature Machine Intelligence</em>, 1, 434 (2019).</li>
     <li>H. Jiang†, <em class='first'>C. Li† </em>(† <em>equally contributed</em>), R. Zhang, P. Yan, P. Lin, Y. Li, J. J. Yang*, D. Holcomb*, Q. Xia*, “<a href="https://www.nature.com/articles/s41928-018-0146-5">Provable Key Destruction with Large Memristor Crossbar</a>"", <em class="journal">Nature Electronics</em>, 1, 548-554 (2018). </li>
     <li>Z. Wang†, <em class='first'>C. Li†</em> (†<em>equally contributed</em>), W. Song, M. Rao, D. Belkin, Y. Li, P. Yan, H. Jiang, P. Lin, M. Hu, J. P. Strachan, N. Ge, M. Barnell, Q. Wu, A. G. Barto, R. S. Williams, Q. Xia, J. J. Yang, “<a href="https://www.nature.com/articles/s41928-019-0221-6">Reinforcement learning with analog memristor arrays</a>”, <em class="journal">Nature Electronics</em>, 2, 115-124 (2019)</li>
     <li>S. Pi, <em class='first'>C. Li</em>, H. Jiang, W. Xia, H. Xin, J. J. Yang, Q. Xia*, “<a href="https://www.nature.com/articles/s41565-018-0302-0">Memristor crossbar arrays with 12 nm pitch and 2 nm critical dimension</a>”, <em class="journal">Nature Nanotechnology</em> (published online Nov. 12, 2018) </li>
@@ -34,18 +38,21 @@ title: Publications
     <li>R. Midya, Z. Wang, J. Zhang, S.E. Savel'ev, <em class='first'>C. Li</em>, M. Rao, M.H. Jang, S. Joshi, H. Jiang, P. Lin, K. Norris, N. Ge, Q. Wu, M. Barnell, Z. Li, H.L. Xin, R. S. Williams, Q. Xia*, and J. J. Yang*. "<a href="https://doi.org/10.1002/adma.201604457">Anatomy of Ag/Hafnia-based selectors with 10<sup>10</sup> nonlinearity</a>". <em class="journal">Advanced Materials</em>, 29, 1604457 (2017). </li>
 </ol>
 
-<h3>Book Chapters</h3>
+
+### Book Chapters
 <ul>
     <li><em class='first'>C. Li</em> and Q. Xia, "Silicon Based Memristor Devices and Arrays", Handbook of Memristor Networks, L. Chua, G. Sirakoulis, A. Adamatzky (Eds.), Publisher: Springer, to appear in 2019</li>
 </ul>
 
-<h3>Granted Patents</h3>
+### Granted Patents
 <ul>
     <li><em class='first'>C. Li</em>, W. Wu, K. Ding, J. Xu, Y. Hao, "<a href="https://patents.google.com/patent/CN102241390B/zh">An approach for preparing suspended nanosturcture</a>", Patent. CN 102241390 A</li>
     <li>W. Wu, Z. Wang, <em class='first'>C. Li</em>, Y. Mao, L. Zhao, "<a href="https://patents.google.com/patent/CN103193196B/zh">An approach for three-dimensional micro/nano structure assembly</a>", Patent. CN 103193196 A</li>
+
+    <li>More US patents pending...</li>
 </ul>
 
-<h3>Conference Papers</h3>
+### Conference Papers
 <ol>
     <li><em class='first'>C. Li</em>, M. Hu, Y. Li, D. Beklin, H. Jiang, N. Ge, E. Montgomery, N. Davila, C. E. Graves, Z. Li, J. P. Strachan, P. Lin, W. Song, Z. Wang, M. Barnell, Q. Wu, R. S. Williams, J. J. Yang, Q. Xia, "Analog and Neuromorphic Computing with Memristor Arrays", EIPBN 2018, Puerto Rico, May 29-June 1, 2018 (Invited talk)</li>
     <li><em class='first'>C. Li</em>, M. Hu, Y. Li, H. Jiang, N. Ge, E. Montgomery, N. Davila, C. E. Graves, Z. Li, J. P. Strachan, P. Lin, W. Song, Z. Wang, M. Barnell, Q. Wu, R. S. Williams, J. J. Yang, Q. Xia, "<a href="https://doi.org/10.1109/ISCAS.2018.8351877">Large Memristor Crossbars for Analog Computing</a>", ISCAS 2018, Florence, Italy, May 27-30, 2018. </li>
@@ -74,20 +81,4 @@ title: Publications
     <li>Y. Zhang, X. Ji, <em class='first'>C. Li</em>, W. Wu, and Z. Li*, "<a href="http://www.rsc.org/binaries/loc/2010/pdfs/Papers/645_0812.pdf">A Novel Fabrication Method of Hollow Nanoneedles Applicable for Single Cell Operation</a>", MicroTAS 2010, pp.1895-1897 Oct. 3-7, 2010, Groningen, The Netherlands</li>
     <li>F. Ding, C. Ni, W.X. Yu, <em class='first'>C. Li</em>, W.G. Wu*, and J. Xu, "<a href="10.1109/SENSOR.2009.5285843">Stress-Assistant Selective Etching Mechanism for Lithography-Independent Nanofabrication</a>", Transducers'09, pp.1317-1320, Jun. 21-25, 2009, Denver, U.S.A</li>
 </ol>
-
-<!--
-<div id="projects-loading"><i class="icon-spin3 animate-spin"></i></div>
-
-<div id="projects">
-
-    <h3>Under Construction</h3>
-
-    <p id="projects-active"></p>
-
-    <h3>Older Projects</h3>
-
-    <p id="projects-older"></p>
-
-</div>
--->
     

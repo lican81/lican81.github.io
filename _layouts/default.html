@@ -31,15 +31,16 @@
 
     <div class="container">
 
-        <header><h1><a href="/">ilican<i class="dot-head">.</i>com</a></h1></header>
+        {% comment %} <header><h1><a href="/">Can Li <i class="dot-head">.</i></a></h1></header> {% endcomment %}
 
         <div class="navigation">
             <ul>
-                <li><a href="/"><i class="icon-info-circled"></i><span>about</span></a></li>
-                <li><a href="/projects.html"><i class="icon-wrench"></i><span>projects</span></a></li>
-                <li><a href="/publications.html"><i class="icon-foursquare"></i><span>publications</span></a></li>
-                <li><a href="https://github.com/lican81"><i class="icon-github-circled"></i><span>github</span></a></li>
-                <li><a href="https://www.linkedin.com/in/can-li-b8705125/"><i class="icon-linkedin-squared"></i><span>linkedin</span></a></li>
+                <li><a href="/"><i class="icon-info-circled"></i><span>Home</span></a></li>
+                <li><a href="/research.html"><i class="icon-wrench"></i><span>Research</span></a></li>
+                <li><a href="/publications.html"><i class="icon-foursquare"></i><span>Publications</span></a></li>
+                <li><a href="/news.html"><i class="icon-foursquare"></i><span>News</span></a></li>
+                {% comment %} <li><a href="https://github.com/lican81"><i class="icon-github-circled"></i><span>github</span></a></li>
+                <li><a href="https://www.linkedin.com/in/can-li-b8705125/"><i class="icon-linkedin-squared"></i><span>linkedin</span></a></li> {% endcomment %}
             </ul>
         </div>
 
@@ -61,7 +62,7 @@
     </div>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-    <script src="/vendor/autolinker/Autolinker.min.js?rev={{ site.github.build_revision }}"></script>
+    {% comment %} <script src="/vendor/autolinker/Autolinker.min.js?rev={{ site.github.build_revision }}"></script> {% endcomment %}
     <script src="/assets/js/main.js?rev={{ site.github.build_revision }}"></script>
 
 </body>

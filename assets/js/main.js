@@ -82,9 +82,10 @@ $(function () {
     // Make external links open in a new tab/window.
     (function () {
         var urlRegExp = new RegExp('^(\/|(https?:)?\/\/' + window.location.host + ')');
+        var selfRegExp = new RegExp('\#.*');
         $('a').each(function () {
             var $a = $(this);
-            if (!urlRegExp.test($a.attr('href'))) {
+            if (!urlRegExp.test($a.attr('href')) && !selfRegExp.test($a.attr('href'))) {
                 $a.attr('target', '_blank');
             }
         });
