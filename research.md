@@ -48,8 +48,6 @@ C. Li, et al., _Analog signal and image processing with large memristor crossbar
 H. Jiang†, C. Li†, et al., _Provable Key Destruction with Large Memristor Crossbar._
 
 
-
-
 ### 3. CMOS compatible memristor device integration and nanofabrication
 
 <!-- <div class="clearfix">
