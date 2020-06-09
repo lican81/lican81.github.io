@@ -19,7 +19,7 @@ References:
 - [[Nature Communications]](https://www.nature.com/articles/s41467-018-04484-2), 2018  
 C. Li, et al., _Efficient and self-adaptive in-situ learning in multilayer memristor neural networks_.
 
-- **[IMW]** (Link to follow), 2020  
+- [[IMW]](https://ieeexplore.ieee.org/abstract/document/9108112), 2020  
 C. Li, et al., _CMOS-integrated nanoscale memristive crossbars for CNN and optimization acceleration_.
 
 - [[Nature Machine Intelligence]](https://www.nature.com/articles/s42256-018-0001-4), 2019  

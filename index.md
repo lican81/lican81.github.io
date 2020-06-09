@@ -7,7 +7,7 @@ title: index
 
 My name is **Can Li** (Chinese: 李灿), and I am currently a researcher at Hewlett Packard Labs in Palo Alto, California, working on analog and neuromorphic computing accelerators based on post-CMOS emerging devices (e.g. memristors), for efficient machine/deep learning, network security, signal processing, etc. Before working in the industry, I obtained my Ph.D. from University of Massachusetts, Amherst, and B.S./M.S. from Peking University.
 
-I will join the Department of Electric and Electronic Engineering (EEE) and the Institute of Mind at the **University of Hong Kong (HKU)** in July 2020. Our research will expand from **micro/nanofabrication for emerging devices, prototype chip design/ tape-out/measurement, to hardware-algorithm co-optimization** for novel applications including **A.I./machine learning**. Please refer to the <a href="/research.html" target="_self">Research</a> page for more details.
+I will join the Department of Electric and Electronic Engineering (EEE) and the Institute of Mind at the **University of Hong Kong (HKU)** in July 2020. Our research will expand from **micro/nanofabrication for emerging devices, prototype chip design/ tape-out/measurement, to hardware-algorithm co-optimization** for novel applications including **A.I./machine learning**. Please refer to the [Research](/research.html) page for more details.
 
 
 <!-- Within the **C**hips for 
