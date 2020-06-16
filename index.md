@@ -9,7 +9,6 @@ My name is **Can Li** (Chinese: 李灿), and I am currently a researcher at Hewl
 
 I will join the Department of Electric and Electronic Engineering (EEE) and the Institute of Mind at the **University of Hong Kong (HKU)** in July 2020. Our research will expand from **micro/nanofabrication for emerging devices, prototype chip design/ tape-out/measurement, to hardware-algorithm co-optimization** for novel applications including **A.I./machine learning**. Please refer to the [Research](/research.html) page for more details.
 
-
 <!-- Within the **C**hips for 
 **A**ccelerating
 **N**euromorphic applications
@@ -20,9 +19,9 @@ I will join the Department of Electric and Electronic Engineering (EEE) and the 
 Related links:
 
 - [Dot Product Engine by Hewlett Packard Labs](https://www.labs.hpe.com/next-next/dot-product-engine){:target="_blank"} 
-- [Prof. Qiangfei Xia's group site](http://nano.ecs.umass.edu){:target="_blank"} 
-- [Prof. J. Joshua Yang's group site](http://www.ecs.umass.edu/ece/jjyang/){:target="_blank"} 
-- [Prof. Wengang Wu's page](https://eecs.pku.edu.cn/info/1478/9753.htm){:target="_blank"} 
+- [Prof. Qiangfei Xia's group site](http://nano.ecs.umass.edu)
+- [Prof. J. Joshua Yang's group site](http://www.ecs.umass.edu/ece/jjyang/)
+- [Prof. Wengang Wu's page](https://eecs.pku.edu.cn/info/1478/9753.htm)
 
 You can find me in a variety of places on the web:
 

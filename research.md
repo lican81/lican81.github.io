@@ -17,19 +17,19 @@ The followings are example topics. If you are interested in joining us (as resea
 References:
 
 - [[Nature Communications]](https://www.nature.com/articles/s41467-018-04484-2), 2018  
-C. Li, et al., _Efficient and self-adaptive in-situ learning in multilayer memristor neural networks_.
+C. Li, et al., _Efficient and self-adaptive in-situ learning in multilayer memristor neural networks_. [Open Access PDF](https://www.nature.com/articles/s41467-018-04484-2.pdf)
 
-- [[IMW]](https://ieeexplore.ieee.org/abstract/document/9108112), 2020  
-C. Li, et al., _CMOS-integrated nanoscale memristive crossbars for CNN and optimization acceleration_.
+- [[IMW]](http://dx.doi.org/10.1109/IMW48823.2020.9108112), 2020  
+C. Li, et al., _CMOS-integrated nanoscale memristive crossbars for CNN and optimization acceleration_. [PDF](assets/pdf/IWM_superT.pdf)
 
 - [[Nature Machine Intelligence]](https://www.nature.com/articles/s42256-018-0001-4), 2019  
-C. Li, et al., _Long short-term memory networks in memristor crossbars_.
+C. Li, et al., _Long short-term memory networks in memristor crossbars_. [Preview PDF](https://rdcu.be/bfKQS)
 
 - [[Nature Machine Intelligence]](https://www.nature.com/articles/s42256-019-0089-1), 2019  
-Z. Wang†, C. Li†, P. Lin†, et al., _In situ training of feedforward and recurrent convolutional memristor networks_.
+Z. Wang†, C. Li†, P. Lin†, et al., _In situ training of feedforward and recurrent convolutional memristor networks_. [Preview PDF](https://rdcu.be/bQGMb)
 
 - [[Nature Electronics]](https://www.nature.com/articles/s41928-019-0221-6), 2019  
-Z. Wang†, C. Li†, et al., _Reinforcement learning with analog memristor arrays_.
+Z. Wang†, C. Li†, et al., _Reinforcement learning with analog memristor arrays_. [Preview PDF](https://rdcu.be/brcsE)
 
 
 ### 2. Novel application, circuit, device, and their co-design.
@@ -39,13 +39,13 @@ Z. Wang†, C. Li†, et al., _Reinforcement learning with analog memristor arra
 References:
 
 - [[Nature Communications]](https://www.nature.com/articles/s41467-020-15254-4), 2020    
-C. Li, et al., Analog content addressable memories with memristors. (_Presented at HPE internal TechCon 2020 as “Analog content addressable memory for explainable and efficient machine learning”. (acceptance rate of 4.38%)_)
+C. Li, et al., Analog content addressable memories with memristors. (_Presented at HPE internal TechCon 2020 as “Analog content addressable memory for explainable and efficient machine learning”. (acceptance rate of 4.38%)_) [Open Access PDF](https://www.nature.com/articles/s41467-020-15254-4.pdf)
 
 - [[Nature Electronics]](https://www.nature.com/articles/s41467-020-15254-4), 2018  
-C. Li, et al., _Analog signal and image processing with large memristor crossbars._
+C. Li, et al., _Analog signal and image processing with large memristor crossbars._[Preview PDF](http://rdcu.be/GquI)
 
 - [[Nature Electronics]](https://www.nature.com/articles/s41928-018-0146-5), 2018  
-H. Jiang†, C. Li†, et al., _Provable Key Destruction with Large Memristor Crossbar._
+H. Jiang†, C. Li†, et al., _Provable Key Destruction with Large Memristor Crossbar._ [Preview PDF](https://rdcu.be/859D)
 
 
 ### 3. CMOS compatible memristor device integration and nanofabrication
@@ -61,10 +61,10 @@ H. Jiang†, C. Li†, et al., _Provable Key Destruction with Large Memristor Cr
 References:
 
 - [[Nature Communications]](https://www.nature.com/articles/ncomms15666), 2017  
-C. Li, et al., _Three-Dimensional Crossbar Arrays of Self-rectifying Si/SiO2/Si Memristors._
+C. Li, et al., _Three-Dimensional Crossbar Arrays of Self-rectifying Si/SiO2/Si Memristors._ [Open Access PDF](https://www.nature.com/articles/ncomms15666.pdf)
 
 - [[Nature Nanotechnology]](https://www.nature.com/articles/s41565-018-0302-0), 2019  
-S. Pi, C. Li, et al., _Memristor crossbar arrays with 6-nm half-pitch and 2-nm critical dimension._
+S. Pi, C. Li, et al., _Memristor crossbar arrays with 6-nm half-pitch and 2-nm critical dimension._ [Preview PDF](https://rdcu.be/b4WpY)
 
 - [[Nature Electronics]](https://www.nature.com/articles/s41928-020-0397-9), 2020  
-P. Lin, C. Li, et al., _Three-dimensional memristor circuits as complex neural networks._
+P. Lin, C. Li, et al., _Three-dimensional memristor circuits as complex neural networks._ [Preview PDF](https://rdcu.be/b3xJn)
