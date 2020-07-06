@@ -8,9 +8,8 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=1
 <!-- [[Journal Papers]](#journal-papers) [[Conferences]](#conferences-and-presentations) [[Book Chapters]](#book-chapters) [[Granted Patents]](#granted-patents) -->
 
 ### Book Chapters
-<ul>
-    <li><em class='first'>C. Li</em> and Q. Xia, "Silicon Based Memristor Devices and Arrays", Handbook of Memristor Networks, L. Chua, G. Sirakoulis, A. Adamatzky (Eds.), Publisher: Springer, to appear in 2019</li>
-</ul>
+
+- *C. Li* and Q. Xia, "Silicon Based Memristor Devices and Arrays", [Handbook of Memristor Networks](https://www.springer.com/gp/book/9783319763743#), L. Chua, G. Sirakoulis, A. Adamatzky (Eds.), Publisher: Springer, 2019
 
 ### Patents
 

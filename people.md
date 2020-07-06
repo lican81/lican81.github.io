@@ -5,23 +5,22 @@ title: index
 
 ## Can Li (李灿)
 
-#### Research Associate
+#### Assistant Professor
 
-Hewlett Packard Labs,  
-Hewlett Packard Enterprise,  
-1501 Page Mill Road,  
-Palo Alto, CA 94304, USA
-
-
-Email: [can.li@hpe.com](mailto:can.li@hpe.com); [canl@hku.hk](mailto:canl@hku.hk)
+Department of Electrical and Electronic Engineering  
+The University of Hong Kong,  
+Pokfulam Road, Hong Kong SAR
 
 
-### Professional Activities
+Email: [canl@hku.hk](mailto:canl@hku.hk)
 
-#### Conferences
+
+#### Professional Activities
+
+##### Conferences
 - "Neuromorpihc hardware" session chair for EIPBN 2018. 
 
-#### Journal Reviewer
+##### Journal Reviewer
 - Nature Electronics
 - Nature Communications
 - Nanoscale

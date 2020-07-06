@@ -5,16 +5,17 @@ title: index
 
 <div class="gravatar"></div>
 
-My name is **Can Li** (Chinese: 李灿), and I am currently a researcher at Hewlett Packard Labs in Palo Alto, California, working on analog and neuromorphic computing accelerators based on post-CMOS emerging devices (e.g. memristors), for efficient machine/deep learning, network security, signal processing, etc. Before working in the industry, I obtained my Ph.D. from University of Massachusetts, Amherst, and B.S./M.S. from Peking University.
+My name is **Can Li** (Chinese: 李灿), and I am currently an assistant professor at Department of Electric and Electronic Engineering (EEE) of **the University of Hong Kong (HKU)**, working on analog and neuromorphic computing accelerators based on post-CMOS emerging devices (e.g. memristors), for efficient machine/deep learning, network security, signal processing, etc. Before that, I spent two years at Hewlett Packard Labs in Palo Alto, California, and obtained my Ph.D. from University of Massachusetts, Amherst, and B.S./M.S. from Peking University.
 
-I will join the Department of Electric and Electronic Engineering (EEE) and the Institute of Mind at the **University of Hong Kong (HKU)** in July 2020. Our research will expand from **micro/nanofabrication for emerging devices, prototype chip design/ tape-out/measurement, to hardware-algorithm co-optimization** for novel applications including **A.I./machine learning**. Please refer to the [Research](/research.html) page for more details.
+**We currently have multiple openings (Research Postgraduate (Ph.D., MPhil.). Students, Research Assistant, Postdoc).** If you are interested in joining us, please feel free to email me at [canl@hku.hk](mailto:canl@hku.hk).
+Our research will expand from **micro/nanofabrication for emerging devices, prototype chip design/ tape-out/measurement, to hardware-algorithm co-optimization** for novel applications including **A.I./machine learning**. Please refer to the [Research](/research.html) page for more details.
 
 <!-- Within the **C**hips for 
 **A**ccelerating
 **N**euromorphic applications
 (**CAN**) Group,  -->
 
-**We currently have multiple openings (Research Postgraduate (Ph.D., MPhil.). Students, Research Assistant, Postdoc).** If you are interested in joining us, please drop me an email at [canl@hku.hk](mailto:canl@hku.hk).
+
 
 Related links:
 
