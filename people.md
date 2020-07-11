@@ -9,6 +9,7 @@ title: index
 
 Department of Electrical and Electronic Engineering  
 The University of Hong Kong,  
+Chow Yei Ching Building, Room 520,
 Pokfulam Road, Hong Kong SAR
 
 

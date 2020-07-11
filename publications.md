@@ -30,7 +30,7 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=1
 <ol>
     <li><em class='first'>C. Li*</em>, C. E. Graves*, X. Sheng, D. Miller, M. Foltin, G. Pedretti, J. P. Strachan*, “<a href="https://www.nature.com/articles/s41467-020-15254-4">Analog content addressable memories with memristors</a>”, <em class="journal">Nature Communications</em>, 11, 1638 (2020) </li>
     <li>P. Lin, <em class='first'>C. Li</em>, Z. Wang, Y. Li, H. Jiang, W. Song, M. Rao, Y. Zhuo, N. K. Upadhyay, M. Barnell, Q. Wu, J. J. Yang*, Q. Xia*, “<a href="https://www.nature.com/articles/s41928-020-0397-9">Three-dimensional memristor circuits as complex neural networks</a>”, <em class="journal">Nature Electronics</em>, 3, 225 (2020)</li>
-    <li>F. Cai, S. Kumar, T. Vaerenbergh, X. Sheng, R. Liu, <em class='first'>C. Li</em>, Z. Liu, M. Foltin, S. Yu, Q. Xia, J. J. Yang, R. Beausoleil, W. Lu, J. P. Strachan*, “Power Efficient Combinatorial Optimization Harnessing Intrinsic Noise in Memristor Hopfield Neural Networks”, <em class="journal">Nature Electronics</em>, (in press) </li>
+    <li>F. Cai, S. Kumar, T. Vaerenbergh, X. Sheng, R. Liu, <em class='first'>C. Li</em>, Z. Liu, M. Foltin, S. Yu, Q. Xia, J. J. Yang, R. Beausoleil, W. Lu, J. P. Strachan*, “<a href="https://www.nature.com/articles/s41928-020-0436-6">Power Efficient Combinatorial Optimization Harnessing Intrinsic Noise in Memristor Hopfield Neural Networks”</a>, <em class="journal">Nature Electronics</em>, (in press) </li>
 </ol>
 
 #### Conferences
