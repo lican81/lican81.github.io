@@ -9,7 +9,7 @@ title: index
 
 Department of Electrical and Electronic Engineering  
 The University of Hong Kong,  
-Chow Yei Ching Building, Room 520,
+Chow Yei Ching Building, Room 520,  
 Pokfulam Road, Hong Kong SAR
 
 
@@ -33,6 +33,7 @@ Email: [canl@hku.hk](mailto:canl@hku.hk)
 - Flexible and Printed Electronics
 - Nano Futures
 - IEEE EDL
+- IEEE TED
 - IEEE JEDS
 - IEEE TNano
 - IEEE TVLSI

@@ -47,6 +47,9 @@ C. Li, et al., _Analog signal and image processing with large memristor crossbar
 - [[Nature Electronics]](https://www.nature.com/articles/s41928-018-0146-5), 2018  
 H. Jiang†, C. Li†, et al., _Provable Key Destruction with Large Memristor Crossbar._ [Preview PDF](https://rdcu.be/859D)
 
+- [[Advanced Materials]](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003437)  
+C. E. Graves, C. Li, et al., _In-Memory Computing with Memristor Content Addressable Memories for Pattern Matching_ 
+
 
 ### 3. CMOS compatible memristor device integration and nanofabrication
 
