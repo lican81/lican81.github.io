@@ -5,7 +5,7 @@ title: index
 
 <!-- <div class="gravatar"></div> -->
 
-<img src="/assets/pics/yampak.jpeg" width='600px'>
+<img src="/assets/pics/yampak.jpeg" width='100%'>
 
 Welcome to the **C**ognitive and **A**daptive **N**euromorphic computing Lab (CANLab) at [the University of Hong Kong](https://www.hku.hk)!  
 

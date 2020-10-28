@@ -531,3 +531,8 @@ a.creative-commons:hover {
     padding: 20px;
     width: 240px;
 } 
+
+
+.icon-home:before { content: '\e808'; } /* '' */
+.icon-people:before {content: '\e801'; }
+.icon-books:before {content: '\e807';}

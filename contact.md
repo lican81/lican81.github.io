@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-## Can Li (李灿)
+## Can Li (李燦)
 
 #### Assistant Professor
 
