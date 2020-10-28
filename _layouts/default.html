@@ -10,11 +10,15 @@
     <title>{{ site.title }}{% if page.title != 'index' %} / {{ page.title }}{% endif %}</title>
     <meta name="description" content="{{ page.description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <link rel="icon" type="image/png" href="/assets/img/favicon.png">
+    <!-- <link rel="icon" type="image/png" href="/assets/img/favicon.png"> -->
+    <link rel="icon" type="image/png" href="/assets/img/favicon-16x16.png" sizes="16x16">
+    <link rel="icon" type="image/png" href="/assets/img/favicon-32x32.png" sizes="16x16">
+
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,600,700,400italic,600italic,700italic">
     <link rel="stylesheet" href="/vendor/fontello/css/fontello.css?rev={{ site.github.build_revision }}">
     <link rel="stylesheet" href="/vendor/fontello/css/animation.css?rev={{ site.github.build_revision }}">
     <link rel="stylesheet" href="/assets/css/main.css?rev={{ site.github.build_revision }}">
+    <!-- <link rel="stylesheet" href="/assets/css/projectbase.css?rev={{ site.github.build_revision }}"> -->
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23617994-1"></script>
@@ -31,15 +35,42 @@
 
     <div class="container">
 
-        {% comment %} <header><h1><a href="/">Can Li <i class="dot-head">.</i></a></h1></header> {% endcomment %}
+        <!-- <header><h1><a href="/">Can Li <i class="dot-head">.</i></a></h1></header> -->
+
+        
+        <div class="page-head" tabindex="-1">
+            <div class="container-wide">
+              <div class="page-head__inner">
+                <a href="/"><img class="page-head__logo" src="/assets/img/hku-logo.svg" alt="The University of Hong Kong">
+                </a>
+          
+                <div class="page-head__inner-right">
+
+                    <div id="lab-title">
+                        CANLab @ HKU
+                    </div>
+
+                  <div class="mn mn--hover">
+
+          
+                  </div>
+                </div>
+          
+              </div>
+
+            </div>
+            
+        </div>
+
 
         <div class="navigation">
             <ul>
                 <li><a href="/"><i class="icon-info-circled"></i><span>Home</span></a></li>
                 <li><a href="/research.html"><i class="icon-wrench"></i><span>Research</span></a></li>
-                <li><a href="/publications.html"><i class="icon-foursquare"></i><span>Publications</span></a></li>
+                <li><a href="/members.html"><i class="icon-wrench"></i><span>Members</span></a></li>
+                 <li><a href="/publications.html"><i class="icon-foursquare"></i><span>Publications</span></a></li>
                 <li><a href="/news.html"><i class="icon-foursquare"></i><span>News</span></a></li>
-                <li><a href="/people.html"><i class="icon-foursquare"></i><span>About</span></a></li>
+                <li><a href="/contact.html"><i class="icon-foursquare"></i><span>Contact</span></a></li>
                 {% comment %} <li><a href="https://github.com/lican81"><i class="icon-github-circled"></i><span>github</span></a></li>
                 <li><a href="https://www.linkedin.com/in/can-li-b8705125/"><i class="icon-linkedin-squared"></i><span>linkedin</span></a></li> {% endcomment %}
             </ul>
