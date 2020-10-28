@@ -1,20 +1,9 @@
 ---
 layout: default
-title: index
+title: Dr. Can Li
 ---
 
-## Can Li (李灿)
-
-#### Assistant Professor
-
-Department of Electrical and Electronic Engineering  
-The University of Hong Kong,  
-Chow Yei Ching Building, Room 520,  
-Pokfulam Road, Hong Kong SAR
-
-
-Email: [canl@hku.hk](mailto:canl@hku.hk)
-
+My name is **Can Li** (Chinese: 李灿), and I am currently an assistant professor at Department of Electric and Electronic Engineering (EEE) of **the University of Hong Kong (HKU)**, working on analog and neuromorphic computing accelerators based on post-CMOS emerging devices (e.g. memristors), for efficient machine/deep learning, network security, signal processing, etc. Before that, I spent two years at Hewlett Packard Labs in Palo Alto, California, and obtained my Ph.D. from University of Massachusetts, Amherst, and B.S./M.S. from Peking University.
 
 #### Professional Activities
 

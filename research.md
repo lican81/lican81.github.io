@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Projects
+title: Research
 ---
 
 <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> -->
@@ -71,3 +71,10 @@ S. Pi, C. Li, et al., _Memristor crossbar arrays with 6-nm half-pitch and 2-nm c
 
 - [[Nature Electronics]](https://www.nature.com/articles/s41928-020-0397-9), 2020  
 P. Lin, C. Li, et al., _Three-dimensional memristor circuits as complex neural networks._ [Preview PDF](https://rdcu.be/b3xJn)
+
+
+### You may find other related background information from the following links:
+
+- [Dot Product Engine by Hewlett Packard Labs](https://www.labs.hpe.com/next-next/dot-product-engine){:target="_blank"} 
+- [Prof. Qiangfei Xia's group site](http://nano.ecs.umass.edu)
+- [Prof. J. Joshua Yang's group site](http://www.ecs.umass.edu/ece/jjyang/)

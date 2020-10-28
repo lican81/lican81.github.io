@@ -141,6 +141,7 @@ header {
     border-top-width: 0;
     min-height: 250px;
     padding: 50px;
+    overflow: auto;
 }
 
 footer {
@@ -485,3 +486,48 @@ a.creative-commons:hover {
         line-height: 50px;
     }
 }
+
+
+/* Baner */
+
+/* .innerpage .page-head__inner {
+    padding: 1.125rem 0rem 1.0625rem;
+} */
+
+.page-head__inner {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: end;
+    -ms-flex-align: end;
+    align-items: flex-end;
+    padding: 1.875rem 0rem 1.5625rem;
+    -webkit-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    -o-transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    transition: all 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+    }
+
+.page-head__inner-right{
+    padding: 1.875rem 1rem 0.8rem;
+}
+
+#lab-title{
+    font-weight: normal;
+    font-family: "roboto", "Arial", "sans-serif", "Microsoft JhengHei revise", "Microsoft JhengHei", "MingLiU";
+    color: #245201;
+    font-size: 24px;
+}
+
+.profile_pic{
+    width: 200px;
+    height: 00 px;
+}
+ 
+.profile_div{
+    float:left;
+    padding: 20px;
+    width: 240px;
+} 

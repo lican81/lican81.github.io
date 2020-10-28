@@ -32,12 +32,14 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=1
     <li>P. Lin, <em class='first'>C. Li</em>, Z. Wang, Y. Li, H. Jiang, W. Song, M. Rao, Y. Zhuo, N. K. Upadhyay, M. Barnell, Q. Wu, J. J. Yang*, Q. Xia*, “<a href="https://www.nature.com/articles/s41928-020-0397-9">Three-dimensional memristor circuits as complex neural networks</a>”, <em class="journal">Nature Electronics</em>, 3, 225 (2020)</li>
     <li>C. E. Graves*, <em class='first'>C. Li</em>, X. Sheng, D. Miller, J. Ignowski, L. Kiyama, J. P. Strachan, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003437">In-Memory Computing with Memristor Content Addressable Memories for Pattern Matching</a>, <em class="journal">Advanced Materials</em>, published online</li>
     <li>F. Cai, S. Kumar, T. Vaerenbergh, X. Sheng, R. Liu, <em class='first'>C. Li</em>, Z. Liu, M. Foltin, S. Yu, Q. Xia, J. J. Yang, R. Beausoleil, W. Lu, J. P. Strachan*, “<a href="https://www.nature.com/articles/s41928-020-0436-6">Power-efficient combinatorial optimization using intrinsic noise in memristor Hopfield neural networks”</a>, <em class="journal">Nature Electronics</em>, 3, 409 (2020) </li>
+    <li>D. Joksas*, P. Freitas, Z. Chai, W. H. Ng, M. Buckwell, <em class='first'>C. Li</em>, W. D. Zhang, Q. Xia, A. J. Kenyon & A. Mehonic*, "<a href="https://www.nature.com/articles/s41467-020-18098-0">Committee machines—a universal method to deal with non-idealities in memristor-based neural networks</a>", <em class="journal">Nature Communications</em>, 11, 4273 (2020) </li>
+    <li>K. Berggren, Q. Xia......P. Lin, <em class='first'>C. Li</em>......, "<a href="https://iopscience.iop.org/article/10.1088/1361-6528/aba70f/meta">Roadmap on emerging hardware and technology for machine learning</a>", <em class="journal">Nanotechnology</em>, 32 01200 (2020)</li>
 </ol>
 
 #### Conferences
 
 <ol>
-   <li><em class='first'>C. Li</em>, J. Ignowski, X. Sheng, R. Wessel, B. Jaffe, J. Ingemi, C. Graves, J. P. Strachan, “CMOS-integrated nanoscale memristive crossbars for CNN and optimization acceleration.”, IMW 2020, May 17-25, 2020. </li>
+   <li><em class='first'>C. Li</em>, J. Ignowski, X. Sheng, R. Wessel, B. Jaffe, J. Ingemi, C. Graves, J. P. Strachan, “<a href="https://ieeexplore.ieee.org/document/9108112">CMOS-integrated nanoscale memristive crossbars for CNN and optimization acceleration.</a>”, IMW 2020, May 17-25, 2020. </li>
    <li><em class='first'>C. Li</em>, C. E. Graves, D. Miller, X. Sheng, J. P. Strachan, “Analog content addressable memory for explainable and efficient machine learning”, HPE TechCon 2020, Orlando, FL, Feb. 3-7, 2020. (Oral, acceptance rate = 4.38%)</li>
 </ol>
 
