@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/earlyaccess/cwtexkai.css);
+
 em.first {
     font-weight: bold;
     text-decoration: underline;
@@ -536,3 +538,9 @@ a.creative-commons:hover {
 .icon-home:before { content: '\e808'; } /* '' */
 .icon-people:before {content: '\e801'; }
 .icon-books:before {content: '\e807';}
+
+.name-ch{
+    font-family: 'cwTeXKai', serif;
+    font-size: 120%;
+    /* font-size: 30px; */
+}
