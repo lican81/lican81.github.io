@@ -3,6 +3,8 @@ layout: default
 title: News
 ---
 
+- [November 2020]
+    - Mr. Ruibin Mao joined the group, welcome aboard!
 - [October 2020]  
     - Mr. Yahui Zhao and Mr. Mingrui Jiang joined the group, welcome aboard!
 - [July 2020]  

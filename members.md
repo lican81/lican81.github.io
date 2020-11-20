@@ -8,7 +8,7 @@ title: Members
 <div class="profile_div">
     <img src="/assets/img/avatar.JPG" class="profile_pic">   
     <br/>
-    Dr. Can Li <a href="people-can.html">[Biography]</a>
+    Dr. Can Li <a href="/people-can.html">[Biography]</a>
     <br/> Assistant Professor  <br/>
     Ph.D. UMass Amherst, <br/> 
     M.S./B.S. Peking University  <br/>
