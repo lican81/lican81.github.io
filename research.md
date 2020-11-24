@@ -41,7 +41,7 @@ References:
 - [[Nature Communications]](https://www.nature.com/articles/s41467-020-15254-4), 2020    
 C. Li, et al., Analog content addressable memories with memristors. (_Presented at HPE internal TechCon 2020 as “Analog content addressable memory for explainable and efficient machine learning”. (acceptance rate of 4.38%)_) [Open Access PDF](https://www.nature.com/articles/s41467-020-15254-4.pdf)
 
-- [[Nature Electronics]](https://www.nature.com/articles/s41467-020-15254-4), 2018  
+- [[Nature Electronics]](https://www.nature.com/articles/s41928-017-0002-z), 2018  
 C. Li, et al., _Analog signal and image processing with large memristor crossbars._[Preview PDF](http://rdcu.be/GquI)
 
 - [[Nature Electronics]](https://www.nature.com/articles/s41928-018-0146-5), 2018  
