@@ -3,6 +3,8 @@ layout: default
 title: News
 ---
 
+- [Feburary 2021]
+    - Mr. Zhu Wang joined the group, welcome aboard!
 - [December 2020]
     - Dr. Can Li gave a talk at the IEEE International Electron Devices Meeting (IEDM) introducing the analog error-correcting code idea for analog computing in crossbars. 
 - [November 2020]

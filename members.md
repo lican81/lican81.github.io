@@ -25,7 +25,7 @@ title: Members
     M.S. HKU, <br/> B.S. Wuhan University
 </div>
 
-<br style="clear:both" />
+<!-- <br style="clear:both" /> -->
 
 <div class="profile_div">
     <img src="/assets/pics/Mingrui_Jiang.jpg" class="profile_pic">  
@@ -37,4 +37,11 @@ title: Members
     <img src="/assets/pics/Ruibin_Mao.jpg" class="profile_pic">  
     Ruibin Mao, <br/>Ph.D. Student  <br/>
     B.S. University of Science and Technology of China
+</div>
+
+<div class="profile_div">
+    <img src="/assets/pics/Zhu_Wang.jpeg" class="profile_pic">  
+    <br/>Zhu Wang, <br/>Ph.D. Student  <br/>
+    B.S. Harbin institute of Technology <br/>
+    M.Phil. City University of Hong Kong
 </div>
