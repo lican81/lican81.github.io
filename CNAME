@@ -1,1 +1,1 @@
-ilican.com
+canlab.hku.hk
