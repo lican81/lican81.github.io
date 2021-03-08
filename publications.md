@@ -12,8 +12,10 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=1
 - *C. Li* and Q. Xia, "Silicon Based Memristor Devices and Arrays", [Handbook of Memristor Networks](https://www.springer.com/gp/book/9783319763743#), L. Chua, G. Sirakoulis, A. Adamatzky (Eds.), Publisher: Springer, 2019
 
 ### Patents
+[US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
 
-2 granted patents, more than 10 US patents pending...
+More filed patents pending...
+
 <!-- <ul>
     <li><em class='first'>C. Li</em>, W. Wu, K. Ding, J. Xu, Y. Hao, "<a href="https://patents.google.com/patent/CN102241390B/zh">An approach for preparing suspended nanosturcture</a>", Patent. CN 102241390 A</li>
     <li>W. Wu, Z. Wang, <em class='first'>C. Li</em>, Y. Mao, L. Zhao, "<a href="https://patents.google.com/patent/CN103193196B/zh">An approach for three-dimensional micro/nano structure assembly</a>", Patent. CN 103193196 A</li>
