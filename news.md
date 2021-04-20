@@ -3,8 +3,11 @@ layout: default
 title: News
 ---
 
+- [April 2021]
+    - Mr. Zhiyuan joined the group, welcome aboard!
 - [Feburary 2021]
     - Mr. Zhu Wang joined the group, welcome aboard!
+    - In celebration of the Spring Festival, we replaced the group meeting with a group hiking! See photos at [HERE](/activities).
 - [December 2020]
     - Dr. Can Li gave a talk at the IEEE International Electron Devices Meeting (IEDM) introducing the analog error-correcting code idea for analog computing in crossbars. 
 - [November 2020]

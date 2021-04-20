@@ -45,3 +45,10 @@ title: Members
     B.S. Harbin institute of Technology <br/>
     M.Phil. City University of Hong Kong
 </div>
+
+<div class="profile_div">
+    <img src="/assets/pics/Zhiyuan_Du.jpg" class="profile_pic">  
+    <br/>Zhiyuan Du, <br/>Ph.D. Student (co-supervised with Dr. N Wong and Dr. Z. Chu)  <br/>
+    B.S. Beijing Institute of Technology <br/>
+    M.S. Beijing Institute of Technology
+</div>
