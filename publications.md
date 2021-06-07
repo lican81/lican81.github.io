@@ -12,7 +12,7 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=1
 - *C. Li* and Q. Xia, "Silicon Based Memristor Devices and Arrays", [Handbook of Memristor Networks](https://www.springer.com/gp/book/9783319763743#), L. Chua, G. Sirakoulis, A. Adamatzky (Eds.), Publisher: Springer, 2019
 
 ### Patents
-[US10,930,348](https://patents.google.com/patent/US10930348B1/en), [US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
+[US10,998,047](https://patents.google.com/patent/US10998047B1/en), [US10,930,348](https://patents.google.com/patent/US10930348B1/en), [US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
 
 More filed patents pending...
 

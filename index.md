@@ -9,7 +9,7 @@ title: index
 
 Welcome to the **C**ognitive and **A**daptive **N**euromorphic computing **Lab** (**CANLab**) at [the University of Hong Kong](https://www.hku.hk)!  
 
-**We currently have multiple openings (Research Postgraduate (Ph.D., MPhil.). Students, Research Assistant, Postdoc).** If you are interested in joining us, please feel free to email me at [canl@hku.hk](mailto:canl@hku.hk).
+**We plan to take 1-2 Ph.D. students for 2022 Spring/Fall and [1-2 postdoctoral fellow](https://jobs.hku.hk/cw/en/job/503914/postdoctoral-fellow).** If you are interested in joining us, please feel free to email me at [canl@hku.hk](mailto:canl@hku.hk).
 Our research will expand from **micro/nanofabrication for emerging devices, prototype chip design/ tape-out/measurement, to hardware-algorithm co-optimization** for novel applications including **A.I./machine learning**. Please refer to the [Research](/research.html) page for more details.
 
 <!-- Within the **C**hips for 

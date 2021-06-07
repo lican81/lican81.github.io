@@ -6,7 +6,7 @@ title: Members
 ### Principle Investigator
 
 <div class="profile_div">
-    <img src="/assets/img/avatar.JPG" class="profile_pic">   
+    <img src="/assets/pics/Can_Li.jpeg" class="profile_pic">   
     <br/>
     Dr. Can Li <a href="/people-can.html">[Biography]</a>
     <br/> Assistant Professor  <br/>
@@ -19,11 +19,7 @@ title: Members
 
 ### Lab Members
 
-<div class="profile_div">
-    <img src="/assets/pics/Yahui_Zhao.jpeg" class="profile_pic">  
-    Yahui Zhao, <br/> Research Assistant  <br/>
-    M.S. HKU, <br/> B.S. Wuhan University
-</div>
+
 
 <!-- <br style="clear:both" /> -->
 
@@ -52,3 +48,26 @@ title: Members
     B.S. Beijing Institute of Technology <br/>
     M.S. Beijing Institute of Technology
 </div>
+
+<div class="profile_div">
+    <img src="/assets/pics/Bo_Wen.jpg" class="profile_pic">  
+    <br/>Bo Wen, <br/>Ph.D. Student<br/>
+    B.S. Huazhong University of Science and Technology <br/>
+    M.S. University of Chinese Academy of Science
+</div>
+
+
+<br style="clear:both" />
+
+#### Former Members
+
+- **Yahui Zhao** Research Assitant (2020-2021)
+
+
+{% comment %} 
+<div class="profile_div">
+    <img src="/assets/pics/Yahui_Zhao.jpeg" class="profile_pic">  
+    Yahui Zhao, <br/> Research Assistant  <br/>
+    M.S. HKU, <br/> B.S. Wuhan University
+</div> 
+{% endcomment %}

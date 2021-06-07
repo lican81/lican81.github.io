@@ -3,6 +3,8 @@ layout: default
 title: News
 ---
 
+- [June 2021]
+    - Mr. Bo Wen joined the group, welcome aboard!
 - [April 2021]
     - Mr. Zhiyuan joined the group, welcome aboard!
 - [Feburary 2021]
