@@ -23,8 +23,15 @@ More filed patents pending...
 
 ### Peer-reviewed articles
 
-[[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[2017]](#2017) [[Prior to 2017]](#prior-to-2017)
+[[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[2017]](#2017) [[Prior to 2017]](#prior-to-2017)
 
+### 2021
+
+#### Journal Papers
+#### Conferences
+<ol>
+    <li>Sitao Huang, Aayush Ankit, Plinio Silveira, Rodrigo Antunes, Sai Rahul Chalamalasetti, Izzat El Hajj, Dong Eun Kim, Glaucimar Aguiar, Pedro Bruel, Sergey Serebryakov, Cong Xu, <em class='first'>Can Li</em>, Paolo Faraboschi, John Paul Strachan, Deming Chen, Kaushik Roy, Wen-mei Hwu, Dejan Milojicic, "<a href="https://ieeexplore.ieee.org/abstract/document/9371610/">Mixed Precision Quantization for ReRAM-based DNN Inference Accelerators</a>, ASP-DAC 2021, Jan 18-21, 2021."</li>
+</ol>
 ### 2020
 
 #### Journal Papers
@@ -41,6 +48,7 @@ More filed patents pending...
 #### Conferences
 
 <ol>
+   <li><em class='first'>Can Li</em>, Can Li; Ron M. Roth; Cat Graves; Xia Sheng; John Paul Strachan, “<a href="https://ieeexplore.ieee.org/abstract/document/9371978">Analog error correcting codes for defect tolerant matrix multiplication in crossbars.</a>”, IEEE IEDM 2020, Dec 12-18, 2020. </li>
    <li><em class='first'>C. Li</em>, J. Ignowski, X. Sheng, R. Wessel, B. Jaffe, J. Ingemi, C. Graves, J. P. Strachan, “<a href="https://ieeexplore.ieee.org/document/9108112">CMOS-integrated nanoscale memristive crossbars for CNN and optimization acceleration.</a>”, IMW 2020, May 17-25, 2020. </li>
    <li><em class='first'>C. Li</em>, C. E. Graves, D. Miller, X. Sheng, J. P. Strachan, “Analog content addressable memory for explainable and efficient machine learning”, HPE TechCon 2020, Orlando, FL, Feb. 3-7, 2020. (Oral, acceptance rate = 4.38%)</li>
 </ol>
