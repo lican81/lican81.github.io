@@ -12,7 +12,7 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=1
 - *C. Li* and Q. Xia, "Silicon Based Memristor Devices and Arrays", [Handbook of Memristor Networks](https://www.springer.com/gp/book/9783319763743#), L. Chua, G. Sirakoulis, A. Adamatzky (Eds.), Publisher: Springer, 2019
 
 ### Patents
-[US10,998,047](https://patents.google.com/patent/US10998047B1/en), [US10,930,348](https://patents.google.com/patent/US10930348B1/en), [US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
+[US11,057,143](https://patents.google.com/patent/US11057143B1/en)[US10,998,047](https://patents.google.com/patent/US10998047B1/en), [US10,930,348](https://patents.google.com/patent/US10930348B1/en), [US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
 
 More filed patents pending...
 
@@ -48,7 +48,7 @@ More filed patents pending...
 #### Conferences
 
 <ol>
-   <li><em class='first'>Can Li</em>, Can Li; Ron M. Roth; Cat Graves; Xia Sheng; John Paul Strachan, “<a href="https://ieeexplore.ieee.org/abstract/document/9371978">Analog error correcting codes for defect tolerant matrix multiplication in crossbars.</a>”, IEEE IEDM 2020, Dec 12-18, 2020. </li>
+   <li><em class='first'>Can Li</em>; Ron M. Roth; Cat Graves; Xia Sheng; John Paul Strachan, “<a href="https://ieeexplore.ieee.org/abstract/document/9371978">Analog error correcting codes for defect tolerant matrix multiplication in crossbars.</a>”, IEEE IEDM 2020, Dec 12-18, 2020. </li>
    <li><em class='first'>C. Li</em>, J. Ignowski, X. Sheng, R. Wessel, B. Jaffe, J. Ingemi, C. Graves, J. P. Strachan, “<a href="https://ieeexplore.ieee.org/document/9108112">CMOS-integrated nanoscale memristive crossbars for CNN and optimization acceleration.</a>”, IMW 2020, May 17-25, 2020. </li>
    <li><em class='first'>C. Li</em>, C. E. Graves, D. Miller, X. Sheng, J. P. Strachan, “Analog content addressable memory for explainable and efficient machine learning”, HPE TechCon 2020, Orlando, FL, Feb. 3-7, 2020. (Oral, acceptance rate = 4.38%)</li>
 </ol>
