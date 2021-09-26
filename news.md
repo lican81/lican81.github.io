@@ -2,7 +2,10 @@
 layout: default
 title: News
 ---
-
+- [September 2021]
+    - Mr. Zhanzhi Liu joined the group, welcome aboard!
+- [July 2021]
+    - In celebration of the group anniversary, we went for hiking at Lamma Island! Checkout photos at [HERE](/activities).
 - [June 2021]
     - Mr. Bo Wen joined the group, welcome aboard!
 - [April 2021]

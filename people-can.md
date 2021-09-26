@@ -3,7 +3,7 @@ layout: default
 title: Dr. Can Li
 ---
 
-My name is **Can Li** (Chinese: <b class="name-ch">李燦</b>), and I am currently an assistant professor at Department of Electric and Electronic Engineering (EEE) of **the University of Hong Kong (HKU)**, working on analog and neuromorphic computing accelerators based on post-CMOS emerging devices (e.g. memristors), for efficient machine/deep learning, network security, signal processing, etc. Before that, I spent two years at Hewlett Packard Labs in Palo Alto, California, and obtained my Ph.D. from University of Massachusetts, Amherst, and B.S./M.S. from Peking University.
+My name is **Can Li** (Chinese: <b class="name-ch">李燦</b>), and I am currently an assistant professor at the Department of Electric and Electronic Engineering (EEE) of **the University of Hong Kong (HKU)**, working on analog and neuromorphic computing accelerators based on post-CMOS emerging devices (e.g., memristors), for efficient machine/deep learning, network security, signal processing, etc. Before that, I spent two years at Hewlett Packard Labs in Palo Alto, California, and obtained my Ph.D. from University of Massachusetts, Amherst, and B.S./M.S. from Peking University.
 
 #### Professional Activities
 
@@ -30,6 +30,11 @@ My name is **Can Li** (Chinese: <b class="name-ch">李燦</b>), and I am current
 - IEEE JxCDC
 - IEEE TETC
 - ...
+
+### Awards
+- RGC Early Career Awards (HKSAR), 2021
+- NSFC Excellent Young Scientists Fund (<b class="name-ch">港澳優青</b>), 2021
+
 
 ### Contest
 

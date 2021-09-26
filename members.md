@@ -44,7 +44,7 @@ title: Members
 
 <div class="profile_div">
     <img src="/assets/pics/Zhiyuan_Du.jpg" class="profile_pic">  
-    <br/>Zhiyuan Du, <br/>Ph.D. Student (co-supervised with Dr. N Wong and Dr. Z. Chu)  <br/>
+    <br/>Zhiyuan Du, <br/>Ph.D. Student (co-supervised with <a href="https://www.eee.hku.hk/~nwong/">Ngai Wong</a> and <a href="https://www.zqchu-pbblab.hku.hk">Zhiqin Chu</a>])  <br/>
     B.S. Beijing Institute of Technology <br/>
     M.S. Beijing Institute of Technology
 </div>
@@ -54,6 +54,12 @@ title: Members
     <br/>Bo Wen, <br/>Ph.D. Student<br/>
     B.S. Huazhong University of Science and Technology <br/>
     M.S. University of Chinese Academy of Science
+</div>
+
+<div class="profile_div">
+    <img src="/assets/pics/Zhanzhi_Liu.jpg" class="profile_pic">  
+    <br/>Zhanzhi Liu, <br/>Ph.D. Student (co-supervised with <a href="https://www.sustech.edu.cn/en/facultys/liyida.html">Yida Li</a>)<br/>
+    B.S. Southen University of Science and Technology <br/>
 </div>
 
 

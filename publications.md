@@ -11,8 +11,9 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=1
 
 - *C. Li* and Q. Xia, "Silicon Based Memristor Devices and Arrays", [Handbook of Memristor Networks](https://www.springer.com/gp/book/9783319763743#), L. Chua, G. Sirakoulis, A. Adamatzky (Eds.), Publisher: Springer, 2019
 
+
 ### Patents
-[US11,057,143](https://patents.google.com/patent/US11057143B1/en)[US10,998,047](https://patents.google.com/patent/US10998047B1/en), [US10,930,348](https://patents.google.com/patent/US10930348B1/en), [US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
+[US11,057,143](https://patents.google.com/patent/US11057143B1/en), [US10,998,047](https://patents.google.com/patent/US10998047B1/en), [US10,930,348](https://patents.google.com/patent/US10930348B1/en), [US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
 
 More filed patents pending...
 
@@ -28,6 +29,10 @@ More filed patents pending...
 ### 2021
 
 #### Journal Papers
+<ol>
+    <li>G. Pedretti, P. Mannocci, <em class='first'>C. Li</em>, Z. Sun, J.P. Strachan, D. Ielmini, "<a href="https://ieeexplore.ieee.org/abstract/document/9495830/">Redundancy and analog slicing for precise in-memory machine learning—Part I: Programming techniques</a>", IEEE Transactions on Electron Devices, 68, 4373 (2021)</li>
+    <li>G. Pedretti, P. Mannocci, <em class='first'>C. Li</em>, Z. Sun, J.P. Strachan, D. Ielmini, "<a href="https://ieeexplore.ieee.org/abstract/document/9495837">Redundancy and Analog Slicing for Precise In-Memory Machine Learning—Part II: Applications and Benchmark</a>", IEEE Transactions on Electron Devices, 68, 4373 (2021)</li>
+</ol>
 #### Conferences
 <ol>
     <li>Sitao Huang, Aayush Ankit, Plinio Silveira, Rodrigo Antunes, Sai Rahul Chalamalasetti, Izzat El Hajj, Dong Eun Kim, Glaucimar Aguiar, Pedro Bruel, Sergey Serebryakov, Cong Xu, <em class='first'>Can Li</em>, Paolo Faraboschi, John Paul Strachan, Deming Chen, Kaushik Roy, Wen-mei Hwu, Dejan Milojicic, "<a href="https://ieeexplore.ieee.org/abstract/document/9371610/">Mixed Precision Quantization for ReRAM-based DNN Inference Accelerators</a>, ASP-DAC 2021, Jan 18-21, 2021."</li>
