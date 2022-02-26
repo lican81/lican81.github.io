@@ -1,1 +1,17 @@
 title: CANLab at HKU
+email: canl@hku.hk
+description: Welcome to the Cognitive and Adaptive Neuromorphic computing Lab (CANLab) at the University of Hong Kong! The goal of our research is to explore and build the next-generation hardware based on post-CMOS emerging devices, e.g. memristors.  From top-down, we examine the existing algorithms and determine the most crucial task to accelerate with our hardware.  Examples include but not limited to matrix multiplication in A.I./machine learning tasks.  In the meanwhile, we optimize and characterize the device performance, including their nonlinear dynamics, and build novel circuit/architecture/algorithm from bottom up. Our research will expand from micro/nanofabrication for emerging devices, prototype chip design/ tape-out/measurement, to hardware-algorithm co-optimization for novel applications including A.I./machine learning. 
+baseurl: /
+url: http://canlab.hku.hk/
+github_username:  lican81
+
+defaults:
+  -
+    scope:
+      path: "_slides"  #__
+    values:
+      layout: "iframe"
+
+collections:
+  slides:
+    output: true

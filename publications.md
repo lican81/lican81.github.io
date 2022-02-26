@@ -13,7 +13,7 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=1
 
 
 ### Patents
-[US11,057,143](https://patents.google.com/patent/US11057143B1/en), [US10,998,047](https://patents.google.com/patent/US10998047B1/en), [US10,930,348](https://patents.google.com/patent/US10930348B1/en), [US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
+[US11,200,929](https://patents.google.com/patent/US11200929B1/en)[US11,057,143](https://patents.google.com/patent/US11057143B1/en), [US10,998,047](https://patents.google.com/patent/US10998047B1/en), [US10,930,348](https://patents.google.com/patent/US10930348B1/en), [US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
 
 More filed patents pending...
 
@@ -30,11 +30,14 @@ More filed patents pending...
 
 #### Journal Papers
 <ol>
+    <li>G. Pedretti, C. E Graves, S. Serebryakov, <u>R. Mao</u>, X. Sheng, M. Foltin, <em class='first'>C. Li</em>, J. P. Strachan, <a href="https://www.nature.com/articles/s41467-021-25873-0">Tree-based machine learning performed in-memory with memristive analog CAM</a>, <em class="journal">Nature Communications</em>, 12, 5806 (2021)</li>
     <li>G. Pedretti, P. Mannocci, <em class='first'>C. Li</em>, Z. Sun, J.P. Strachan, D. Ielmini, "<a href="https://ieeexplore.ieee.org/abstract/document/9495830/">Redundancy and analog slicing for precise in-memory machine learning—Part I: Programming techniques</a>", IEEE Transactions on Electron Devices, 68, 4373 (2021)</li>
     <li>G. Pedretti, P. Mannocci, <em class='first'>C. Li</em>, Z. Sun, J.P. Strachan, D. Ielmini, "<a href="https://ieeexplore.ieee.org/abstract/document/9495837">Redundancy and Analog Slicing for Precise In-Memory Machine Learning—Part II: Applications and Benchmark</a>", IEEE Transactions on Electron Devices, 68, 4373 (2021)</li>
 </ol>
 #### Conferences
 <ol>
+    <li><u>M. Jiang, R. Mao</u>, J. P. Strachan, <em class='first'>C. Li</em>, <a href="http://dx.doi.org/10.1109/ICECS53924.2021.9665649">Defect tolerant in-memory analog computing with CMOS-integrated nanoscale crossbars</a>, ICECS 2021, 28 Nov.-1 Dec. 2021</li>
+    <li>Y Ren, R Lin, J Ran, C Liu, C Tao, Z Wang, <em class='first'>C Li</em>, N Wong, <a href="http://dx.doi.org/10.1109/ASICON52560.2021.9620292">BATMANN: A Binarized-All-Through Memory-Augmented Neural Network for Efficient In-Memory Computing</a>, ASICON 2021, 26-29 Oct, 2021</li>
     <li>Sitao Huang, Aayush Ankit, Plinio Silveira, Rodrigo Antunes, Sai Rahul Chalamalasetti, Izzat El Hajj, Dong Eun Kim, Glaucimar Aguiar, Pedro Bruel, Sergey Serebryakov, Cong Xu, <em class='first'>Can Li</em>, Paolo Faraboschi, John Paul Strachan, Deming Chen, Kaushik Roy, Wen-mei Hwu, Dejan Milojicic, "<a href="https://ieeexplore.ieee.org/abstract/document/9371610/">Mixed Precision Quantization for ReRAM-based DNN Inference Accelerators</a>, ASP-DAC 2021, Jan 18-21, 2021."</li>
 </ol>
 ### 2020
