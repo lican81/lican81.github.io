@@ -13,7 +13,7 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=1
 
 
 ### Patents
-[US11,200,929](https://patents.google.com/patent/US11200929B1/en)[US11,057,143](https://patents.google.com/patent/US11057143B1/en), [US10,998,047](https://patents.google.com/patent/US10998047B1/en), [US10,930,348](https://patents.google.com/patent/US10930348B1/en), [US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
+[US11,200,929](https://patents.google.com/patent/US11200929B1/en), [US11,057,143](https://patents.google.com/patent/US11057143B1/en), [US10,998,047](https://patents.google.com/patent/US10998047B1/en), [US10,930,348](https://patents.google.com/patent/US10930348B1/en), [US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
 
 More filed patents pending...
 

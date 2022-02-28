@@ -3,7 +3,8 @@ layout: default
 title: Members
 ---
 
-### Principle Investigator
+<!-- ### Principle Investigator -->
+### Lab Members
 
 <div class="profile_div">
     <img src="/assets/pics/Can_Li.jpeg" class="profile_pic">   
@@ -15,11 +16,28 @@ title: Members
     
 </div>
 
+<!-- <br style="clear:both" /> -->
+
+<!-- ### Lab Members -->
+
+<div class="profile_div">
+    <img src="/assets/pics/Guoyun_Gao.jpeg" class="profile_pic">   
+    <br/>
+    Dr. Guoyun Gao
+    <br/>Postdoctoral Fellow <br/>
+    Ph.D. Beijing Institute of Nanoenergy and Nanosystems, Chinese Acadamy of Science <br/> 
+      <br/>
+</div>
+
+<div class="profile_div">
+    <img src="/assets/pics/Alam.jpeg" class="profile_pic">   
+    <br/>
+    Dr. Md Iftekharul Alam
+    <br/>Postdoctoral Fellow <br/>
+    Ph.D. Tohoku University <br/> 
+</div>
+
 <br style="clear:both" />
-
-### Lab Members
-
-
 
 <!-- <br style="clear:both" /> -->
 
@@ -45,8 +63,7 @@ title: Members
 <div class="profile_div">
     <img src="/assets/pics/Zhiyuan_Du.jpg" class="profile_pic">  
     <br/>Zhiyuan Du, <br/>Ph.D. Student (co-supervised with <a href="https://www.eee.hku.hk/~nwong/">Ngai Wong</a> and <a href="https://www.zqchu-pbblab.hku.hk">Zhiqin Chu</a>])  <br/>
-    B.S. Beijing Institute of Technology <br/>
-    M.S. Beijing Institute of Technology
+    M.S./B.S. Beijing Institute of Technology
 </div>
 
 <div class="profile_div">
