@@ -75,6 +75,6 @@ P. Lin, C. Li, et al., _Three-dimensional memristor circuits as complex neural n
 
 ### You may find other related background information from the following links:
 
-- [Dot Product Engine by Hewlett Packard Labs](https://www.labs.hpe.com/next-next/dot-product-engine){:target="_blank"} 
+- [Dot Product Engine by Hewlett Packard Labs](https://community.hpe.com/t5/Advancing-Life-Work/The-Dot-Product-Engine-Next-Next/ba-p/7069029#.YuzWx-xBxQM){:target="_blank"} 
 - [Prof. Qiangfei Xia's group site](http://nano.ecs.umass.edu)
-- [Prof. J. Joshua Yang's group site](http://www.ecs.umass.edu/ece/jjyang/)
+- [Prof. J. Joshua Yang's group site](https://sites.usc.edu/jjyang/)

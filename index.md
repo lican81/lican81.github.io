@@ -7,13 +7,15 @@ title: index
 
 <!-- <img src="/assets/pics/yampak.jpeg" width='100%'> -->
 
-Welcome to the **C**ognitive and **A**daptive **N**euromorphic computing **Lab** (**CANLab**) at [the University of Hong Kong](https://www.hku.hk)!  
+Welcome to the **C**ognitive and **A**daptive **N**euromorphic computing **Lab** (**CANLab**) at [the University of Hong Kong](https://www.hku.hk)! Our research expands from **micro/nanofabrication for emerging devices, prototype chip design/ tape-out/measurement, to hardware-algorithm co-optimization** for novel applications, including but not limited to A.I./machine learning. Please refer to the [Research](/research.html) page for more details.
 
 <iframe class="slideshow-iframe" src="slides/home-pics.html"
 style="width:100%; height: 450px"  frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
 
-**We plan to take 1-2 Ph.D. students for 2023 Fall/Spring.** If you are interested in joining us, please feel free to email me at [canl@hku.hk](mailto:canl@hku.hk).
-Our research will expand from **micro/nanofabrication for emerging devices, prototype chip design/ tape-out/measurement, to hardware-algorithm co-optimization** for novel applications including **A.I./machine learning**. Please refer to the [Research](/research.html) page for more details.
+
+
+**We plan to take two Ph.D. students for 2023 Fall/Spring.** If you are interested in joining us, please email me at [canl@hku.hk](mailto:canl@hku.hk).
+
 
 <!-- Within the **C**hips for 
 **A**ccelerating

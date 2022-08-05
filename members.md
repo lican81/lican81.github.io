@@ -79,6 +79,14 @@ title: Members
     B.S. Southen University of Science and Technology <br/>
 </div>
 
+<br style="clear:both" />
+
+<div class="profile_div">
+    <img src="/assets/pics/Keyi_Shan.jpg" class="profile_pic">  
+    <br/>Keyi Shan, <br/>Ph.D. Student<br/>
+    B.S. Xi'an Jiaotong University <br/>
+</div>
+
 
 <br style="clear:both" />
 
