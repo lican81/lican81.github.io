@@ -87,6 +87,17 @@ title: Members
     B.S. Xi'an Jiaotong University <br/>
 </div>
 
+<div class="profile_div">
+    <img src="/assets/pics/Muyuan_Peng.jpg" class="profile_pic">  
+    <br/>Muyuan Peng, <br/>Ph.D. Student<br/>
+    B.S. University of Science and Technology of China <br/>
+</div>
+
+<div class="profile_div">
+    <img src="/assets/pics/Chengping_He.png" class="profile_pic">  
+    <br/>Chengping He, <br/>Ph.D. Student<br/>
+    B.S./M.S. Nanjing University <br/>
+</div>
 
 <br style="clear:both" />
 

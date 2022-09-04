@@ -2,6 +2,18 @@
 layout: default
 title: News
 ---
+
+
+
+- [Auguest 2022]
+    - Miss. Keyi Shan, Mr. Muyuan Peng and Mr. Chengping He joined the group, welcome aboard!
+
+- [May 2022]
+    - Ruibin gave a talk about his research on defect aware training at ISCAS 2022!
+
+- [Janurary 2022]
+   - Right before the covid spikes, we went for Dragon's back hiking! Checkout photos at [HERE](/activities).
+  
 - [September 2021]
     - Mr. Zhanzhi Liu joined the group, welcome aboard!
 - [July 2021]
