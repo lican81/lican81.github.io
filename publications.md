@@ -15,7 +15,7 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=1
 
 
 ### Patents
-[US11,289,162](https://patents.google.com/patent/US11289162B2/en), [US11,200,929](https://patents.google.com/patent/US11200929B1/en), [US11,057,143](https://patents.google.com/patent/US11057143B1/en), [US10,998,047](https://patents.google.com/patent/US10998047B1/en), [US10,930,348](https://patents.google.com/patent/US10930348B1/en), [US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
+[US11,462,268](https://www.freepatentsonline.com/11462268.html), [US11,289,162](https://patents.google.com/patent/US11289162B2/en), [US11,200,929](https://patents.google.com/patent/US11200929B1/en), [US11,057,143](https://patents.google.com/patent/US11057143B1/en), [US10,998,047](https://patents.google.com/patent/US10998047B1/en), [US10,930,348](https://patents.google.com/patent/US10930348B1/en), [US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
 
 More filed patents pending...
 
@@ -34,6 +34,7 @@ More filed patents pending...
 #### Journal Papers
 
 <ol>
+    <li><u>R. Mao, B. Wen,</u> A. Kazemi, <u>Y. Zhao</u>, A.F. Laguana, R. Lin, N. Wong, M. Neimier, X.S. Hu, X. Sheng, C. Graves, J.P. Strachan, <em class='first'>C. Li</em>, <a href="https://www.nature.com/articles/s41467-022-33629-7">Experimentally validated memristive memory augmented neural network with efficient hashing and similarity search, </a> <em class="journal">Nature Communications</em>, 13, 6284 (2022)</li>
     <li>Keji Zhou, Chen Mu, <u>Bo Wen</u>, Xumeng Zhang, Guangjian Wu, <em class='first'>Can Li</em>, Hao Jiang, Xiaoyong Xue, Shang Tang, Chixiao Chen, Qi Liu, <a href="https://www.sciencedirect.com/science/article/pii/S2709472322000107">The Trend of Emerging Non-Volatile TCAM for Parallel Search and AI Applications</a>, <em class="journal">Chip</em>, 100012 (2022)</li>
     <li>Pengpeng Sang, Qianwen Wang, Wei Wei, Yuan Li, <em class='first'>Can Li</em>, Jiezhi Chen, <a href="https://ieeexplore.ieee.org/abstract/document/9766030">Extending the Scaling Limit of Silicon Channel Transistors Through hhk-Silicene Monolayer: A Computational Study</a>, <em class="journal">IEEE Transactions on Electron Devices</em>, 6, 3494-3498 (2022)</li>
     <li>Wei Wei, Guoqing Zhao, XuePeng Zhan, Weiqiang Zhang, Pengpeng Sang, Qianwen Wang, Lu Tai, Qing Luo, Yuan Li, <em class='first'>Can Li</em>, Jiezhi Chen, <a href="https://aip.scitation.org/doi/abs/10.1063/5.0084660">Switching pathway-dependent strain-effects on the ferroelectric properties and structural deformations in orthorhombic HfO2</a>, <em class="journal">Journal of Applied Physics</em>, 15, 154101 (2022)</li>
@@ -41,6 +42,12 @@ More filed patents pending...
     <li><u>Ruibin Mao</u>, Bo Wen, Mingrui Jiang, Jiezhi Chen, <em class='first'>Can Li</em>, <a href="https://ieeexplore.ieee.org/abstract/document/9737569/">Experimentally-Validated Crossbar Model for Defect-Aware Training of Neural Networks</a>, <em class="journal">IEEE Transactions on Circuits and Systems II: Express Briefs</em>, 5, 2468-2472 (2022)</li>
     <li>Giacomo Pedretti, Catherine E Graves, Thomas Van Vaerenbergh, Sergey Serebryakov, Martin Foltin, Xia Sheng, <u>Ruibin Mao</u>, <em class='first'>Can Li</em>, John Paul Strachan, <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/aelm.202101198">Differentiable Content Addressable Memory with Memristors</a>, <em class="journal">Advanced Electronic Materials</em>, 2101198 (2022)</li>
     <li>Mingyi Rao, Wenhao Song, Fatemeh Kiani, Shiva Asapu, Ye Zhuo, Rivu Midya, Navnidhi Upadhyay, Qing Wu, Mark Barnell, Peng Lin, <em class='first'>Can Li</em>, Zhongrui Wang, Qiangfei Xia, J. Joshua Yang, <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/smsc.202100072">Timing selector: Using transient switching dynamics to solve the sneak path issue of crossbar arrays</a>, <em class="journal">Small Science</em>, 2, 2100072 (2022)</li>
+</ol>
+
+#### Conferences
+
+<ol>
+    <li><u>M. Jiang, K. Shan</u>, X. Sheng, C. Graves, J.P. Strachan, <em class='first'>C. Li</em> and J. P. Strachan, “An efficient synchronous updating memristor-based Ising solver for combinatorial optimization”, <em class="journal">IEEE International Electron Devices Meeting (IEDM)</em>, San Francisco, CA, USA, Dec. 3-7, 2022. </li>
 </ol>
 
 ### 2021

@@ -14,7 +14,7 @@ style="width:100%; height: 450px"  frameborder="0" scrolling="no" onload="resize
 
 
 
-**We have immediate opening for postdoctoral fellow / research assistant positions** and plan to take two Ph.D. students for 2023 Fall/Spring. If you are interested in joining us, please email me at [canl@hku.hk](mailto:canl@hku.hk).
+**We have immediate openings for postdoctoral fellow / research assistant positions** and plan to take two Ph.D. students for 2023 Fall/Spring. If you are interested in joining us, please email me at [canl@hku.hk](mailto:canl@hku.hk).
 
 
 <!-- Within the **C**hips for 

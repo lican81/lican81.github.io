@@ -2,8 +2,11 @@
 layout: default
 title: News
 ---
+- [October 2022]
+  - Our paper "[Experimentally validated memristive memory augmented neural network with efficient hashing and similarity search](https://www.nature.com/articles/s41467-022-33629-7)" is just published online by Nature Commumications! Congratulations to Ruibin and all! 
 
-
+- [September 2022]
+  - Our paper “An efficient synchronous updating memristor-based Ising solver for combinatorial optimization” was accepted for presentation at IEEE IEDM 2022! Congratulations to Mingrui and all!
 
 - [Auguest 2022]
     - Miss. Keyi Shan, Mr. Muyuan Peng and Mr. Chengping He joined the group, welcome aboard!
