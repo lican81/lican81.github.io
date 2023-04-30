@@ -29,15 +29,8 @@ title: Members
       <br/>
 </div>
 
-<div class="profile_div">
-    <img src="/assets/pics/Alam.jpeg" class="profile_pic">   
-    <br/>
-    Dr. Md Iftekharul Alam
-    <br/>Postdoctoral Fellow <br/>
-    Ph.D. Tohoku University <br/> 
-</div>
 
-<br style="clear:both" />
+
 
 <!-- <br style="clear:both" /> -->
 
@@ -46,6 +39,8 @@ title: Members
     Mingrui Jiang, <br/>Ph.D. Student  <br/>
     B.S. Huazhong University of Science and Technology
 </div>
+
+<br style="clear:both" />
 
 <div class="profile_div">
     <img src="/assets/pics/Ruibin_Mao.jpg" class="profile_pic">  
@@ -66,6 +61,8 @@ title: Members
     M.S./B.S. Beijing Institute of Technology
 </div>
 
+<br style="clear:both" />
+
 <div class="profile_div">
     <img src="/assets/pics/Bo_Wen.jpg" class="profile_pic">  
     <br/>Bo Wen, <br/>Ph.D. Student<br/>
@@ -79,13 +76,13 @@ title: Members
     B.S. Southen University of Science and Technology <br/>
 </div>
 
-<br style="clear:both" />
-
 <div class="profile_div">
     <img src="/assets/pics/Keyi_Shan.jpg" class="profile_pic">  
     <br/>Keyi Shan, <br/>Ph.D. Student<br/>
     B.S. Xi'an Jiaotong University <br/>
 </div>
+
+<br style="clear:both" />
 
 <div class="profile_div">
     <img src="/assets/pics/Muyuan_Peng.jpg" class="profile_pic">  
@@ -99,14 +96,31 @@ title: Members
     B.S./M.S. Nanjing University <br/>
 </div>
 
+<div class="profile_div">
+    <img src="/assets/pics/Zefan_Li.jpeg" class="profile_pic">  
+    <br/>Zefan Li, <br/>Ph.D. Student<br/>
+    B.S. Peking University <br/>
+</div>
+
 <br style="clear:both" />
 
 #### Former Members
 
+- **Md Iftekharul Alam** Postdoctoral Fellow (2021-2022)
+  - Now a Researcher at Hiroshima University.
 - **Yahui Zhao** Research Assitant (2020-2021)
 
 
 {% comment %} 
+<div class="profile_div">
+    <img src="/assets/pics/Alam.jpeg" class="profile_pic">   
+    <br/>
+    Dr. Md Iftekharul Alam
+    <br/>Postdoctoral Fellow <br/>
+    Ph.D. Tohoku University <br/> 
+</div>
+
+
 <div class="profile_div">
     <img src="/assets/pics/Yahui_Zhao.jpeg" class="profile_pic">  
     Yahui Zhao, <br/> Research Assistant  <br/>

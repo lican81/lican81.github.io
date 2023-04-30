@@ -16,6 +16,9 @@ The followings are example topics. If you are interested in joining us (as resea
 
 References:
 
+- [[Nature Communications]](https://www.nature.com/articles/s41467-022-33629-7), 2022 
+R. Mao, B. Wen, ... C. Li _Experimentally validated memristive memory augmented neural network with efficient hashing and similarity search_. [Open Access PDF](https://www.nature.com/articles/s41467-022-33629-7.pdf)
+
 - [[Nature Communications]](https://www.nature.com/articles/s41467-018-04484-2), 2018  
 C. Li, et al., _Efficient and self-adaptive in-situ learning in multilayer memristor neural networks_. [Open Access PDF](https://www.nature.com/articles/s41467-018-04484-2.pdf)
 
@@ -37,6 +40,9 @@ Z. Wang†, C. Li†, et al., _Reinforcement learning with analog memristor arra
 ![Apps](assets/img/research_apps.svg)
 
 References:
+
+- [[IEDM]](https://ieeexplore.ieee.org/document/10019348), 2020    
+M. Jiang, K. Shan,... C. Li, An efficient synchronous-updating memristor-based Ising solver for combinatorial optimization.  [PDF](assets/pdf/An_efficient_synchronous-updating_memristor-based_Ising_solver_for_combinatorial_optimization.pdf)
 
 - [[Nature Communications]](https://www.nature.com/articles/s41467-020-15254-4), 2020    
 C. Li, et al., Analog content addressable memories with memristors. (_Presented at HPE internal TechCon 2020 as “Analog content addressable memory for explainable and efficient machine learning”. (acceptance rate of 4.38%)_) [Open Access PDF](https://www.nature.com/articles/s41467-020-15254-4.pdf)
