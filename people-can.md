@@ -8,36 +8,28 @@ My name is **Can Li** (Chinese: <b class="name-ch">李燦</b>), and I am current
 #### Professional Activities
 
 ##### Conferences
-- "Neuromorpihc hardware" session chair for EIPBN 2018. 
+- Session chairs: EIPBN 18, IEEE ICTA 21, IUMRS 21, IEEE EDTM 22, ...
+- TPC member: DAC 22/23, ICCAD 23, ASP-DAC 24, IEEE EDTM 21/22, ICTA 20/21/22, ASP-DAC 23, ...
 
-##### Journal Reviewer
-- Nature Electronics
-- Nature Communications
-- Nanoscale
-- Journal of Materials Chemistry C
-- Scientific Reports
-- Nanotechnology
-- Applied Physics A
-- Journal of Appied Physics
-- Flexible and Printed Electronics
-- Nano Futures
-- IEEE EDL
-- IEEE TED
-- IEEE JEDS
-- IEEE TNano
-- IEEE TVLSI
-- IEEE TCAD
-- IEEE JxCDC
-- IEEE TETC
-- ...
+##### Journals
 
-### Awards
+- Editorial Advisory board of APL Machine learning
+- Guest editor of IOP Neuromorphic Computing and Engineering 
+    - Focus issue on 3D Circuits for Neuromorphic Computing
+    - Focus issue on Open Neuromorphic Simulations
+
+- Reviewer:
+  - Nature Electronics, Nature Communications, Science Adances, etc.
+
+### Recognition
 - RGC Early Career Awards (HKSAR), 2021
 - NSFC Excellent Young Scientists Fund (<b class="name-ch">港澳優青</b>), 2021
+- Croucher Tak Wah Mak Innovation Award, 2023
+- [Top 1% worldwide by citation by Clarivate Analytics](https://hub.hku.hk/local/top1pc/top1pc.jsp)
 
 
 ### Contest
 
 - 1st Prize in National Undergraduate Electronic Design Contest (China), 2008
 - 2nd Prize in PKU Programming Contest, 2006
-- 1st Prize in Chinese Physics Olympiad (Province), 2004
+- 1st Prize in Chinese Physics Olympiad, 2004
