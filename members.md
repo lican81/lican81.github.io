@@ -104,6 +104,24 @@ title: Members
 
 <br style="clear:both" />
 
+<div class="profile_div">
+    <img src="/assets/pics/Zhicheng_Xu.png" class="profile_pic">  
+    <br/>Zhicheng Xu, <br/>Ph.D. Student<br/>
+    B.S. Zhejiang University <br/>
+</div>
+
+<div class="profile_div">
+    <img src="/assets/pics/Peiyi_He.jpg" class="profile_pic">  
+    <br/>Peiyi He, <br/>Ph.D. Student<br/>
+    B.S. Tsinghua University <br/>
+</div>
+
+<div class="profile_div">
+    <img src="/assets/pics/Haozheng_Wan.jpg" class="profile_pic">  
+    <br/>Haozheng Wan, <br/>Ph.D. Student<br/>
+    B.S. Harbin Institute of Technology <br/>
+</div>
+
 #### Former Members
 
 - **Md Iftekharul Alam** Postdoctoral Fellow (2021-2022)

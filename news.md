@@ -2,6 +2,12 @@
 layout: default
 title: News
 ---
+- [Auguest 2023]
+  - Mr. Zhicheng Xu, Mr. Peiyi He and Mr. Haozheng Wan joined the group, welcome aboard!
+
+- [April 2023]
+   - Mr. Zefan Li joined the group, welcome aboard!
+
 - [October 2022]
   - Our paper "[Experimentally validated memristive memory augmented neural network with efficient hashing and similarity search](https://www.nature.com/articles/s41467-022-33629-7)" is just published online by Nature Commumications! Congratulations to Ruibin and all! 
 
