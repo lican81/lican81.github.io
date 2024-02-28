@@ -16,7 +16,23 @@ Please refer to the [Google Scholar](https://scholar.google.com/citations?user=1
 
 ### Patents
 <!-- WO 2023/078387,  -->
-[US11,561,607](https://patents.google.com/patent/US11561607B2/en), [US11,551,771](https://patents.google.com/patent/US11551771B2/en), [US11,462,268](https://www.freepatentsonline.com/11462268.html), [US11,289,162](https://patents.google.com/patent/US11289162B2/en), [US11,200,929](https://patents.google.com/patent/US11200929B1/en), [US11,057,143](https://patents.google.com/patent/US11057143B1/en), [US10,998,047](https://patents.google.com/patent/US10998047B1/en), [US10,930,348](https://patents.google.com/patent/US10930348B1/en), [US10,896,731](https://patents.google.com/patent/US10896731B1/en), [US10,847,224](https://patents.google.com/patent/US10847224B1/en), [US10,847,238](https://patents.google.com/patent/US10847238B2/en), [CN102241390](https://patents.google.com/patent/CN102241390A/zh), [CN103193196](https://patents.google.com/patent/CN103193196A/zh)
+[US11,804,859](https://patents.google.com/patent/US11804859B2/en),
+[US11,783,878](https://patents.google.com/patent/US11783878B2/en),
+[US11,735,281](https://patents.google.com/patent/US11735281B2/en),
+[US11,694,749](https://patents.google.com/patent/US11694749B2/en),
+[US11,561,607](https://patents.google.com/patent/US11561607B2/en), 
+[US11,551,771](https://patents.google.com/patent/US11551771B2/en), 
+[US11,462,268](https://patents.google.com/patent/US11462268/B1), 
+[US11,289,162](https://patents.google.com/patent/US11289162B2/en), 
+[US11,200,929](https://patents.google.com/patent/US11200929B1/en), 
+[US11,057,143](https://patents.google.com/patent/US11057143B1/en), 
+[US10,998,047](https://patents.google.com/patent/US10998047B1/en), 
+[US10,930,348](https://patents.google.com/patent/US10930348B1/en), 
+[US10,896,731](https://patents.google.com/patent/US10896731B1/en), 
+[US10,847,224](https://patents.google.com/patent/US10847224B1/en), 
+[US10,847,238](https://patents.google.com/patent/US10847238B2/en), 
+[CN102241390](https://patents.google.com/patent/CN102241390A/zh), 
+[CN103193196](https://patents.google.com/patent/CN103193196A/zh)
 
 More filed patents pending...
 
@@ -27,8 +43,40 @@ More filed patents pending...
 
 ### Peer-reviewed articles
 
-[[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[2017]](#2017) [[Prior to 2017]](#prior-to-2017)
 
+[[2024]](#2024) [[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[2017]](#2017) [[Prior to 2017]](#prior-to-2017)
+
+### 2024
+#### Journal Papers
+<ol>
+<li>Wenhao Song, Mingyi Rao, Yunning Li, <em class='first'>Can Li</em>, Ye Zhuo, Fuxi Cai, Mingche Wu, Wenbo Yin, Zongze Li, Qiang Wei, Sangsoo Lee, Hengfang Zhu, Lei Gong, Mark Barnell, Qing Wu, Peter A Beerel, Mike Shuo-Wei Chen, Ning Ge, Miao Hu, Qiangfei Xia, J Joshua Yang, <a href='https://www.science.org/doi/abs/10.1126/science.adi9405'>Programming memristor arrays with arbitrarily high precision for analog computing</a>, <em class='journal'>Science</em>, 383, 903-910 (2024)</li>
+<li>Zhicheng Xu, Che-Kai Liu, Chao Li, Ruibin Mao, Jianyi Yang, Thomas Kämpfe, Mohsen Imani, <em class='first'>Can Li</em>, Cheng Zhuo, Xunzhao Yin, <a href='https://arxiv.org/abs/2401.05708'>FeReX: A Reconfigurable Design of Multi-bit Ferroelectric Compute-in-Memory for Nearest Neighbor Search</a>, <em class='journal'>arXiv preprint arXiv:2401.05708</em>, ,  (2024)</li>
+<li>Zhiyuan Du, Madhav Gupta, Feng Xu, Kai Zhang, Jiahua Zhang, Yan Zhou, Yiyao Liu, Zhenyu Wang, Jörg Wrachtrup, Ngai Wong, <em class='first'>Can Li</em>, Zhiqin Chu, <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202304355'>Widefield Diamond Quantum Sensing with Neuromorphic Vision Sensors</a>, <em class='journal'>Advanced Science</em>, 11, 2304355 (2024)</li>
+</ol>
+<!-- #### Conference Papers
+<ol>
+</ol> -->
+
+### 2023
+#### Journal Papers
+<ol>
+<li>Yunning Li, Wenhao Song, Zhongrui Wang, Hao Jiang, Peng Yan, Peng Lin, <em class='first'>Can Li</em>, Mingyi Rao, Mark Barnell, Qing Wu, Sabyasachi Ganguli, Ajit K Roy, Qiangfei Xia, J Joshua Yang, <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202206648'>Memristive Field‐Programmable Analog Arrays for Analog Computing</a>, <em class='journal'>Advanced Materials</em>, 35, 2206648 (2023)</li>
+<li>Tongtong Zhang, Lingzhi Wang, Jing Wang, Zhongqiang Wang, Madhav Gupta, Xuyun Guo, Ye Zhu, Yau Chuen Yiu, Tony KC Hui, Yan Zhou, <em class='first'>Can Li</em>, Dangyuan Lei, Kwai Hei Li, Xinqiang Wang, Qi Wang, Lei Shao, Zhiqin Chu, <a href='https://www.nature.com/articles/s41467-023-38178-1'>Multimodal dynamic and unclonable anti-counterfeiting using robust diamond microparticles on heterogeneous substrate</a>, <em class='journal'>Nature Communications</em>, 14, 2507 (2023)</li>
+<li>Mingrui Jiang, Keyi Shan, Chengping He, <em class='first'>Can Li</em>, <a href='https://www.nature.com/articles/s41467-023-41647-2'>Efficient combinatorial optimization by quantum-inspired parallel annealing in analogue memristor crossbar</a>, <em class='journal'>Nature Communications</em>, 14, 5927 (2023)</li>
+<li>Deng Zou, Zhenfei He, Ming Chen, Lizhi Yan, Yifan Guo, Guoyun Gao, <em class='first'>Can Li</em>, Yingzhe Piao, Xing Cheng, Paddy KL Chan, <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202211600'>Dry Lithography Patterning of Monolayer Flexible Field Effect Transistors by 2D Mica Stamping</a>, <em class='journal'>Advanced Materials</em>, , 2211600 (2023)</li>
+<li>Qunsong Zeng, Jiawei Liu, Mingrui Jiang, Jun Lan, Yi Gong, Zhongrui Wang, Yida Li, <em class='first'>Can Li</em>, Jim Ignowski, Kaibin Huang, <a href='https://ieeexplore.ieee.org/abstract/document/10226413/'>Realizing In-Memory Baseband Processing for Ultra-Fast and Energy-Efficient 6G</a>, <em class='journal'>IEEE Internet of Things Journal</em>, ,  (2023)</li>
+<li>Yanir London, Thomas Van Vaerenbergh, Luca Ramini, Antoine Descos, Luca Buonanno, Jinsung Youn, <em class='first'>Can Li</em>, Catherine E Graves, Marco Fiorentino, Raymond G Beausoleil, <a href='https://www.degruyter.com/document/doi/10.1515/nanoph-2023-0406/html'>Multiplexing in photonics as a resource for optical ternary content-addressable memory functionality</a>, <em class='journal'>Nanophotonics</em>, 12, 4137-4155 (2023)</li>
+<li>Song Wang, Zhu Wang, <em class='first'>Can Li</em>, Xiaojuan Qi, Hayden Kwok-Hay So, <a href='https://arxiv.org/abs/2309.16987'>SpikeMOT: Event-based Multi-Object Tracking with Sparse Motion Features</a>, <em class='journal'>arXiv preprint arXiv:2309.16987</em>, ,  (2023)</li>
+<li>Shengxiao Jin, Ling Xia, Yifei Mao, Xiaoyu Chen, Zhuojie Chen, <em class='first'>Can Li</em>, Wengang Wu, Jun Xu, <a href='https://www.sciencedirect.com/science/article/pii/S0924424722007531'>Focused-ion-beam-introduced stress as a driving force for three-dimensional micro/nano-assembly</a>, <em class='journal'>Sensors and Actuators A: Physical</em>, 350, 114118 (2023)</li>
+</ol>
+#### Conference Papers
+<ol>
+<li>Yanir London, Thomas Van Vaerenbergh, Luca Ramini, <em class='first'>Can Li</em>, Catherine E Graves, Marco Fiorentino, Raymond G Beausoleil, <a href='https://ieeexplore.ieee.org/abstract/document/10141953/'>WDM Ternary Content-addressable Memory for Optical Links</a>, <em class='journal'>2023 IEEE Silicon Photonics Conference (SiPhotonics)</em>, 1-2 (2023)</li>
+<li>Ruibin Mao, Xia Sheng, Catherine Graves, Cong Xu, <em class='first'>Can Li</em>, <a href='https://ieeexplore.ieee.org/abstract/document/10247735/'>ReRAM-based graph attention network with node-centric edge searching and hamming similarity</a>, <em class='journal'>2023 60th ACM/IEEE Design Automation Conference (DAC)</em>, 1-6 (2023)</li>
+<li>M Niemier, XS Hu, L Liu, M Sharifi, Ian O’Connor, David Atienza, Giovanni Ansaloni, <em class='first'>Can Li</em>, Asif Khan, Daniel C Ralph, <a href='https://ieeexplore.ieee.org/abstract/document/10136923/'>Cross Layer Design for the Predictive Assessment of Technology-Enabled Architectures</a>, <em class='journal'>2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)</em>, 1-10 (2023)</li>
+</ol>
+<li>Guoyun Gao, Bo Wen, <em class='first'>Can Li</em>, <a href=''>Analog content-addressable memories with 2D floating-gate memory transistor</a>, <em class='journal'>66th International Conference on Electron, Ion and Photon Beam Technology and Nanofabrication (EIPBN)</em>, 1-10 (2023)</li>
+</ol>
 
 ### 2022
 

@@ -2,6 +2,12 @@
 layout: default
 title: News
 ---
+- [November 2023] 
+  - Our paper "[Widefield Diamond Quantum Sensing with Neuromorphic Vision Sensors](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202304355)" has just published online by Advanced Science! Congratulations to Zhiyuan and all! 
+
+- [September 2023] 
+  - Our paper "[Efficient combinatorial optimization by quantum-inspired parallel annealing in analogue memristor crossbar](https://www.nature.com/articles/s41467-023-41647-2)" has just published online by Nature Commumications! Congratulations to Mingrui and all! 
+
 - [Auguest 2023]
   - Mr. Zhicheng Xu, Mr. Peiyi He and Mr. Haozheng Wan joined the group, welcome aboard!
 

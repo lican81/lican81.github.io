@@ -9,10 +9,31 @@ The goal of our research is to explore and build the next-generation hardware ba
 
 The followings are example topics. If you are interested in joining us (as research postgraduate (e.g. Ph.D., MPhil.,) students, research assistant, postdoc) and would like to know about the on-going topics, please feel free to contact me at [canl@hku.hk](mailto:canl@hku.hk). 
 
-### 1. A.I./Machine learning hardware accelerators based on emerging devices. 
+### 1. CMOS compatible memristor device integration and nanofabrication
+
+<!-- <div class="clearfix">
+    <a href="http://dx.doi.org/10.1002/adma.201606482"><span class="cover" id="fib"></span></a>
+</div> -->
+<!-- ![3D memristor crossbar](http://media.springernature.com/w300/springer-static/cover-hires/journal/41928/3/4) -->
+
+![Devices](assets/img/research_device.svg)
+
+
+References:
+
+- [[Nature Electronics]](https://www.nature.com/articles/s41928-020-0397-9), 2020  
+P. Lin, C. Li, et al., _Three-dimensional memristor circuits as complex neural networks._ [Preview PDF](https://rdcu.be/b3xJn)
+
+- [[Nature Nanotechnology]](https://www.nature.com/articles/s41565-018-0302-0), 2019  
+S. Pi, C. Li, et al., _Memristor crossbar arrays with 6-nm half-pitch and 2-nm critical dimension._ [Preview PDF](https://rdcu.be/b4WpY)
+
+- [[Nature Communications]](https://www.nature.com/articles/ncomms15666), 2017  
+C. Li, et al., _Three-Dimensional Crossbar Arrays of Self-rectifying Si/SiO2/Si Memristors._ [Open Access PDF](https://www.nature.com/articles/ncomms15666.pdf)
+
+
+### 2. A.I./Machine learning hardware accelerators based on emerging devices. 
 
 ![Chip](assets/img/research_NN.svg)
-
 
 References:
 
@@ -35,13 +56,16 @@ Z. Wang†, C. Li†, P. Lin†, et al., _In situ training of feedforward and re
 Z. Wang†, C. Li†, et al., _Reinforcement learning with analog memristor arrays_. [Preview PDF](https://rdcu.be/brcsE)
 
 
-### 2. Novel application, circuit, device, and their co-design.
+### 3. Novel application, circuit, device, and their co-design.
 
 ![Apps](assets/img/research_apps.svg)
 
 References:
 
-- [[IEDM]](https://ieeexplore.ieee.org/document/10019348), 2020    
+- [[Nature Communications]](https://www.nature.com/articles/s41467-023-41647-2), 2023    
+M. Jiang, K. Shan, C. He, C. Li, Efficient combinatorial optimization by quantum-inspired parallel annealing in analogue memristor crossbar.  [Open Access PDF](https://www.nature.com/articles/s41467-023-41647-2.pdf)
+
+- [[IEDM]](https://ieeexplore.ieee.org/document/10019348), 2022   
 M. Jiang, K. Shan,... C. Li, An efficient synchronous-updating memristor-based Ising solver for combinatorial optimization.  [PDF](assets/pdf/An_efficient_synchronous-updating_memristor-based_Ising_solver_for_combinatorial_optimization.pdf)
 
 - [[Nature Communications]](https://www.nature.com/articles/s41467-020-15254-4), 2020    
@@ -53,30 +77,11 @@ C. Li, et al., _Analog signal and image processing with large memristor crossbar
 - [[Nature Electronics]](https://www.nature.com/articles/s41928-018-0146-5), 2018  
 H. Jiang†, C. Li†, et al., _Provable Key Destruction with Large Memristor Crossbar._ [Preview PDF](https://rdcu.be/859D)
 
-- [[Advanced Materials]](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003437)  
-C. E. Graves, C. Li, et al., _In-Memory Computing with Memristor Content Addressable Memories for Pattern Matching_ 
+<!-- - [[Advanced Materials]](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202003437)  
+C. E. Graves, C. Li, et al., _In-Memory Computing with Memristor Content Addressable Memories for Pattern Matching_  -->
 
 
-### 3. CMOS compatible memristor device integration and nanofabrication
 
-<!-- <div class="clearfix">
-    <a href="http://dx.doi.org/10.1002/adma.201606482"><span class="cover" id="fib"></span></a>
-</div> -->
-<!-- ![3D memristor crossbar](http://media.springernature.com/w300/springer-static/cover-hires/journal/41928/3/4) -->
-
-![Devices](assets/img/research_device.svg)
-
-
-References:
-
-- [[Nature Communications]](https://www.nature.com/articles/ncomms15666), 2017  
-C. Li, et al., _Three-Dimensional Crossbar Arrays of Self-rectifying Si/SiO2/Si Memristors._ [Open Access PDF](https://www.nature.com/articles/ncomms15666.pdf)
-
-- [[Nature Nanotechnology]](https://www.nature.com/articles/s41565-018-0302-0), 2019  
-S. Pi, C. Li, et al., _Memristor crossbar arrays with 6-nm half-pitch and 2-nm critical dimension._ [Preview PDF](https://rdcu.be/b4WpY)
-
-- [[Nature Electronics]](https://www.nature.com/articles/s41928-020-0397-9), 2020  
-P. Lin, C. Li, et al., _Three-dimensional memristor circuits as complex neural networks._ [Preview PDF](https://rdcu.be/b3xJn)
 
 
 ### You may find other related background information from the following links:
