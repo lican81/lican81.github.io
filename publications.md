@@ -74,7 +74,6 @@ More filed patents pending...
 <li>Yanir London, Thomas Van Vaerenbergh, Luca Ramini, <em class='first'>Can Li</em>, Catherine E Graves, Marco Fiorentino, Raymond G Beausoleil, <a href='https://ieeexplore.ieee.org/abstract/document/10141953/'>WDM Ternary Content-addressable Memory for Optical Links</a>, <em class='journal'>2023 IEEE Silicon Photonics Conference (SiPhotonics)</em>, 1-2 (2023)</li>
 <li>Ruibin Mao, Xia Sheng, Catherine Graves, Cong Xu, <em class='first'>Can Li</em>, <a href='https://ieeexplore.ieee.org/abstract/document/10247735/'>ReRAM-based graph attention network with node-centric edge searching and hamming similarity</a>, <em class='journal'>2023 60th ACM/IEEE Design Automation Conference (DAC)</em>, 1-6 (2023)</li>
 <li>M Niemier, XS Hu, L Liu, M Sharifi, Ian O’Connor, David Atienza, Giovanni Ansaloni, <em class='first'>Can Li</em>, Asif Khan, Daniel C Ralph, <a href='https://ieeexplore.ieee.org/abstract/document/10136923/'>Cross Layer Design for the Predictive Assessment of Technology-Enabled Architectures</a>, <em class='journal'>2023 Design, Automation & Test in Europe Conference & Exhibition (DATE)</em>, 1-10 (2023)</li>
-</ol>
 <li>Guoyun Gao, Bo Wen, <em class='first'>Can Li</em>, <a href=''>Analog content-addressable memories with 2D floating-gate memory transistor</a>, <em class='journal'>66th International Conference on Electron, Ion and Photon Beam Technology and Nanofabrication (EIPBN)</em>, 1-10 (2023)</li>
 </ol>
 

@@ -30,33 +30,7 @@ S. Pi, C. Li, et al., _Memristor crossbar arrays with 6-nm half-pitch and 2-nm c
 - [[Nature Communications]](https://www.nature.com/articles/ncomms15666), 2017  
 C. Li, et al., _Three-Dimensional Crossbar Arrays of Self-rectifying Si/SiO2/Si Memristors._ [Open Access PDF](https://www.nature.com/articles/ncomms15666.pdf)
 
-
-### 2. A.I./Machine learning hardware accelerators based on emerging devices. 
-
-![Chip](assets/img/research_NN.svg)
-
-References:
-
-- [[Nature Communications]](https://www.nature.com/articles/s41467-022-33629-7), 2022 
-R. Mao, B. Wen, ... C. Li _Experimentally validated memristive memory augmented neural network with efficient hashing and similarity search_. [Open Access PDF](https://www.nature.com/articles/s41467-022-33629-7.pdf)
-
-- [[Nature Communications]](https://www.nature.com/articles/s41467-018-04484-2), 2018  
-C. Li, et al., _Efficient and self-adaptive in-situ learning in multilayer memristor neural networks_. [Open Access PDF](https://www.nature.com/articles/s41467-018-04484-2.pdf)
-
-- [[IMW]](http://dx.doi.org/10.1109/IMW48823.2020.9108112), 2020  
-C. Li, et al., _CMOS-integrated nanoscale memristive crossbars for CNN and optimization acceleration_. [PDF](assets/pdf/IWM_superT.pdf)
-
-- [[Nature Machine Intelligence]](https://www.nature.com/articles/s42256-018-0001-4), 2019  
-C. Li, et al., _Long short-term memory networks in memristor crossbars_. [Preview PDF](https://rdcu.be/bfKQS)
-
-- [[Nature Machine Intelligence]](https://www.nature.com/articles/s42256-019-0089-1), 2019  
-Z. Wang†, C. Li†, P. Lin†, et al., _In situ training of feedforward and recurrent convolutional memristor networks_. [Preview PDF](https://rdcu.be/bQGMb)
-
-- [[Nature Electronics]](https://www.nature.com/articles/s41928-019-0221-6), 2019  
-Z. Wang†, C. Li†, et al., _Reinforcement learning with analog memristor arrays_. [Preview PDF](https://rdcu.be/brcsE)
-
-
-### 3. Novel application, circuit, device, and their co-design.
+### 2. Novel application, circuit, device, and their co-design.
 
 ![Apps](assets/img/research_apps.svg)
 
@@ -81,11 +55,38 @@ H. Jiang†, C. Li†, et al., _Provable Key Destruction with Large Memristor Cr
 C. E. Graves, C. Li, et al., _In-Memory Computing with Memristor Content Addressable Memories for Pattern Matching_  -->
 
 
+### 3. A.I./Machine learning hardware accelerators based on emerging devices. 
+
+![Chip](assets/img/research_NN.svg)
+
+References:
+
+- [[Nature Communications]](https://www.nature.com/articles/s41467-022-33629-7), 2022 
+R. Mao, B. Wen, ... C. Li _Experimentally validated memristive memory augmented neural network with efficient hashing and similarity search_. [Open Access PDF](https://www.nature.com/articles/s41467-022-33629-7.pdf)
+
+- [[Nature Communications]](https://www.nature.com/articles/s41467-018-04484-2), 2018  
+C. Li, et al., _Efficient and self-adaptive in-situ learning in multilayer memristor neural networks_. [Open Access PDF](https://www.nature.com/articles/s41467-018-04484-2.pdf)
+
+- [[IMW]](http://dx.doi.org/10.1109/IMW48823.2020.9108112), 2020  
+C. Li, et al., _CMOS-integrated nanoscale memristive crossbars for CNN and optimization acceleration_. [PDF](assets/pdf/IWM_superT.pdf)
+
+- [[Nature Machine Intelligence]](https://www.nature.com/articles/s42256-018-0001-4), 2019  
+C. Li, et al., _Long short-term memory networks in memristor crossbars_. [Preview PDF](https://rdcu.be/bfKQS)
+
+- [[Nature Machine Intelligence]](https://www.nature.com/articles/s42256-019-0089-1), 2019  
+Z. Wang†, C. Li†, P. Lin†, et al., _In situ training of feedforward and recurrent convolutional memristor networks_. [Preview PDF](https://rdcu.be/bQGMb)
+
+- [[Nature Electronics]](https://www.nature.com/articles/s41928-019-0221-6), 2019  
+Z. Wang†, C. Li†, et al., _Reinforcement learning with analog memristor arrays_. [Preview PDF](https://rdcu.be/brcsE)
+
+
+
 
 
 
 ### You may find other related background information from the following links:
 
+- [AI Chip Center for Emerging Smart Systems (ACCESS)](https://inno-access.hk/)
 - [Dot Product Engine by Hewlett Packard Labs](https://community.hpe.com/t5/Advancing-Life-Work/The-Dot-Product-Engine-Next-Next/ba-p/7069029#.YuzWx-xBxQM){:target="_blank"} 
 - [Prof. Qiangfei Xia's group site](http://nano.ecs.umass.edu)
 - [Prof. J. Joshua Yang's group site](https://sites.usc.edu/jjyang/)
