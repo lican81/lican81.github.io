@@ -122,6 +122,27 @@ title: Members
     B.S. Harbin Institute of Technology <br/>
 </div>
 
+<div class="profile_div">
+    <img src="/assets/pics/Yunwei_Tong.jpeg" class="profile_pic">  
+    <br/>Yunwei Tong, <br/>Ph.D. Student<br/>
+    M.S. The University of Hong Kong, <br/>
+    B.S. UESTC <br/>
+</div>
+
+<div class="profile_div">
+    <img src="/assets/pics/Jiajun_Gao.jpg" class="profile_pic">  
+    <br/>Jiajun Gao, <br/>Ph.D. Student<br/>
+    B.S. Peking University <br/>
+</div>
+
+<div class="profile_div">
+    <img src="/assets/pics/Yuhang_Xu.jpg" class="profile_pic">  
+    <br/>Yuhang Xu, <br/>Ph.D. Student<br/>
+    B.S. Nanjing University <br/>
+</div>
+
+<br style="clear:both" />
+
 #### Former Members
 
 - **Md Iftekharul Alam** Postdoctoral Fellow (2021-2022)

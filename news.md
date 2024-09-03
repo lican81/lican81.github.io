@@ -2,6 +2,9 @@
 layout: default
 title: News
 ---
+- [September 2024]
+  - Mr. Yunwei Tong, Miss. Jiajun Gao and Mr. Yuhang Xu joined the group, welcome aboard!
+
 - [November 2023] 
   - Our paper "[Widefield Diamond Quantum Sensing with Neuromorphic Vision Sensors](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202304355)" has just published online by Advanced Science! Congratulations to Zhiyuan and all! 
 
