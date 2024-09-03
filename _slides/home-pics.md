@@ -17,7 +17,7 @@ pauseOnHover: true
 * <img src="home-pics/welcome2.jpg" alt="HKU Campus" width='100%'>
 <!-- * <img src="home-pics/hku-crop.jpg" alt="HKU Campus" width='100%'> -->
 <!-- * ![Yam Pak Building at HKU](home-pics/yampak-crop.jpeg) -->
-* <img src="home-pics/2021-07-Lamma-Island-02.jpeg" alt="Hiking on the Lamma Island" width='100%'>
+<!-- * <img src="home-pics/2021-07-Lamma-Island-02.jpeg" alt="Hiking on the Lamma Island" width='100%'> -->
 
 
 
