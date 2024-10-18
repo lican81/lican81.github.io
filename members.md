@@ -143,6 +143,16 @@ title: Members
 
 <br style="clear:both" />
 
+<div class="profile_div">
+    <img src="/assets/pics/Rui_Qiu.jpeg" class="profile_pic">  
+    <br/>Rui Qiu, <br/>Ph.D. Student<br/>
+    MS. Peking University <br/>
+    B.S. Harbin Institute of Technology <br/>
+    <br/>
+</div>
+
+<br style="clear:both" />
+
 #### Former Members
 
 - **Md Iftekharul Alam** Postdoctoral Fellow (2021-2022)
