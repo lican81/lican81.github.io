@@ -12,7 +12,7 @@ Welcome to the **C**ognitive and **A**daptive **N**euromorphic computing **Lab**
 <iframe class="slideshow-iframe" src="slides/home-pics.html"
 style="width:100%; height: 450px"  frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
 
-**We have openings for postdoctoral fellow / research assistant positions** and plan to take multiple Ph.D. students for 2025 Spring/Fall. If you are interested in joining us, please email me at [canl@hku.hk](mailto:canl@hku.hk).
+**All our Ph.D. positions for Fall '25 are filled**, but we'll have several openings for Spring/Fall '26. If you're interested in joining us, please email me at [canl@hku.hk](mailto:canl@hku.hk).
 
 
 <!-- Within the **C**hips for 
