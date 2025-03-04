@@ -2,6 +2,12 @@
 layout: default
 title: News
 ---
+- [Jan 2025]
+  - Mr. Shengbo Wang joined the group, welcome aboard!
+- 
+- [Nov 2024]
+  - Mr. Bofan Yang joined the group, welcome aboard!
+  
 - [September 2024]
   - Mr. Yunwei Tong, Miss. Jiajun Gao, Mr. Yuhang Xu and Miss Rui Qiu joined the group, welcome aboard!
 

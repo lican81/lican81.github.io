@@ -151,6 +151,22 @@ title: Members
     <br/>
 </div>
 
+<div class="profile_div">
+    <img src="/assets/pics/Bofan_Yang.jpg" class="profile_pic">  
+    <br/>Bofan Yang, <br/>Ph.D. Student<br/>
+    <!-- MS. Peking University <br/> -->
+    B.S. Southeast University <br/>
+    <br/>
+</div>
+
+<div class="profile_div">
+    <img src="/assets/pics/Shengbo_Wang.png" class="profile_pic">  
+    <br/>Shengbo Wang, <br/>Ph.D. Student<br/>
+    <!-- MS. Peking University <br/> -->
+    B.S. Beihang University <br/>
+    <br/>
+</div>
+
 <br style="clear:both" />
 
 #### Former Members
