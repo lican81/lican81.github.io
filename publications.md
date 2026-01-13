@@ -44,18 +44,52 @@ More filed patents pending...
 ### Peer-reviewed articles
 
 
-[[2024]](#2024) [[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[2017]](#2017) [[Prior to 2017]](#prior-to-2017)
+[[2025]](#2025) [[2024]](#2024) [[2023]](#2023) [[2022]](#2022) [[2021]](#2021) [[2020]](#2020) [[2019]](#2019) [[2018]](#2018) [[2017]](#2017) [[Prior to 2017]](#prior-to-2017)
+
+### 2025
+#### Journal Papers
+<ol>
+<li>Peiyi He, Shengbo Wang, Ruibin Mao, Sebastian Siegel, Giacomo Pedretti, Jim Ignowski, John Paul Strachan, Ruibang Luo*, <em class='first'>Can Li*</em>, Real-time raw signal genomic analysis using fully integrated memristor hardware, <em class='journal'>Nature Computational Science</em>, (2025)</li>
+<li>Guoyun Gao†, Bo Wen†, Ni Yang, Zhiyuan Du, Mingrui Jiang, Ruibin Mao, Yingnan Cao, Hongxia Xue, Deng Zou, Pak San Yip, Qihan Liu, Yi Wan, Dong-Keun Ki, Jinyao Tang, Paddy K. L. Chan, Hao Jiang, Han Wang, Lain-Jong Li*, <em class='first'>Can Li*</em>, Sb-Contacted MoS2 Flash Memory Enables Ultra-efficient In-memory Computing in Analogue Content Addressable Memory, <em class='journal'>Nature Nanotechnology</em>, (2025)</li>
+<li>Junyi Yang†, Ruibin Mao†, Mingrui Jiang, Yichuan Cheng, Pao-Sheng Vincent Sun, Shuai Dong, Giacomo Pedretti, Xia Sheng, Jim Ignowski, Haoliang Li, <em class='first'>Can Li*</em>, Arindam Basu*, Efficient Nonlinear Function Approximation in Analog Resistive Crossbars for Recurrent Neural Networks, <em class='journal'>Nature Communications</em>, 16, 1136 (2025)</li>
+<li>Mingrui Jiang, Yichun Xu, Zefan Li, <em class='first'>Can Li*</em>, Current opinions on memristor-accelerated machine learning hardware, <em class='journal'>Current Opinion in Solid State and Materials Science</em>, 37, 101226 (2025) (Invited Review)</li>
+<li>Dexing Liu, Rui Qiu, Jingwen Liu, <em class='first'>Can Li</em>, Min Zhang*, Carbon Nanotube-Based Flexible and Stretchable Electronics, <em class='journal'>IEEE Open Journal on Immersive Displays</em>, 2, 139 - 165 (2025)</li>
+<li>Haiqiao Hong, Zhiyuan Du, Mingrui Jiang, Ruibin Mao, Yuan Ren, Wei Mao, Muyuan Peng, Wei Zhang, <em class='first'>Can Li*</em>, Ngai Wong*, Memristor-based adaptive analog-to-digital conversion for efficient and accurate compute-in-memory, <em class='journal'>Nature Communications</em>, 16, 9749 (2025)</li>
+<li>Kekang Liu, Jiajia Zha, Haoxin Huang, Zhiyuan Luo, Zhiyuan Du, Xuyang Zheng, Bufan Zhou, Yanghui Liu*, <em class='first'>Can Li*</em>, Chaoliang Tan*, A lithium-ion-driven electrolyte-gated two-dimensional synaptic transistor based on Se0.3Te0.7 nanosheet for reservoir computing, <em class='journal'>Small</em>, (2025)</li>
+<li>BF Yang, C Zhang, ZH Zhang, D Wang, ZX Wu, YW Tong, PT Lai, <em class='first'>C Li</em>, XD Huang, An InGaZnO Synaptic Transistor Using Titanium-Oxide Traps at Back Channel for Neuromorphic Computing, <em class='journal'>IEEE Transactions on Electron Devices</em>, (2025)</li>
+<li>Liu Liu, Mohammad Mehdi Sharifi, Kunshi Wang, Ruibin Mao, Kai Ni, <em class='first'>Can Li</em>, Xunzhao Yin, Michael Niemier, and Xiaobo Sharon Hu, EvaCAM: A Circuit-level Evaluation Tool for General Content Addressable Memories, <em class='journal'>IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</em>, (2025)</li>
+<li>Song Wang, Zhu Wang, <em class='first'>Can Li</em>, Hayden Kwok-Hay So, WireLightning: Harnessing Capacitances for In-Transit Massively Parallel Matrix Multiplication, <em class='journal'>IEEE Transactions on Circuits and Systems—I: Regular Papers</em>, (2025)</li>
+<li>Chao Li, Xuchu Huang, Zhicheng Xu, Bo Wen, Ruibin Mao, Min Zhou, Thomas Kampfe, Kai Ni, <em class='first'>Can Li</em>, Xunzhao Yin, Cheng Zhuo, High-Performance In-Memory Bayesian Inference with Multi-Bit Ferroelectric FET, <em class='journal'>IEEE Transactions on Computers</em>, (2025)</li>
+<li>Guobin Zhang, Zhen Wang, Qi Luo, Bin Yu, <em class='first'>Can Li</em>, Qing Wan, Yishu Zhang, Exploiting Quasi-Volatility in Silver-Doped RRAMs for Physical Unclonable Functions Toward Robust Security Primitives, <em class='journal'>IEEE Transactions on Electron Devices</em>, (2025)</li>
+</ol>
+
+#### Conferences
+<ol>
+<li>Rui Qiu†, Guoyun Gao†, Zhiyuan Du, Ni Yang, Zefan Li, Dongsheng Zuo, Yunwei Tong, Peiyi He, Hangming Zhang, Hao Jiang, Lain-Jong Li, Han Wang, <em class='first'>Can Li*</em>, Monolithic 3D Integration of MoS2 eDRAM and RRAM for Analog In-Memory Attention Computing, <em class='journal'>2025 IEEE International Electron Devices Meeting (IEDM)</em>, (2025)</li>
+</ol>
+
+
 
 ### 2024
 #### Journal Papers
 <ol>
+<li>Jixiang Jing, Fuqiang Sun, Zhongqiang Wang, Linjie Ma, Yumeng Luo, Zhiyuan Du, Tianyu Zhang, Yicheng Wang, Feng Xu, Tongtong Zhang, Changsheng Chen, Xuhang Ma, Yang He, Ye Zhu, Huarui Sun, Xinqiang Wang, Yan Zhou, James Kit Hon Tsoi, Jörg Wrachtrup, Ngai Wong, <em class='first'>Can Li</em>, Dong-Keun Ki, Qi Wang, Kwai Hei Li, Yuan Lin, Zhiqin Chu, Scalable production of ultraflat and ultraflexible diamond membrane, <em class='journal'>Nature</em>, 636, 627-634 (2024)</li>
 <li>Wenhao Song, Mingyi Rao, Yunning Li, <em class='first'>Can Li</em>, Ye Zhuo, Fuxi Cai, Mingche Wu, Wenbo Yin, Zongze Li, Qiang Wei, Sangsoo Lee, Hengfang Zhu, Lei Gong, Mark Barnell, Qing Wu, Peter A Beerel, Mike Shuo-Wei Chen, Ning Ge, Miao Hu, Qiangfei Xia, J Joshua Yang, <a href='https://www.science.org/doi/abs/10.1126/science.adi9405'>Programming memristor arrays with arbitrarily high precision for analog computing</a>, <em class='journal'>Science</em>, 383, 903-910 (2024)</li>
-<li>Zhicheng Xu, Che-Kai Liu, Chao Li, Ruibin Mao, Jianyi Yang, Thomas Kämpfe, Mohsen Imani, <em class='first'>Can Li</em>, Cheng Zhuo, Xunzhao Yin, <a href='https://arxiv.org/abs/2401.05708'>FeReX: A Reconfigurable Design of Multi-bit Ferroelectric Compute-in-Memory for Nearest Neighbor Search</a>, <em class='journal'>arXiv preprint arXiv:2401.05708</em>, ,  (2024)</li>
 <li>Zhiyuan Du, Madhav Gupta, Feng Xu, Kai Zhang, Jiahua Zhang, Yan Zhou, Yiyao Liu, Zhenyu Wang, Jörg Wrachtrup, Ngai Wong, <em class='first'>Can Li</em>, Zhiqin Chu, <a href='https://onlinelibrary.wiley.com/doi/abs/10.1002/advs.202304355'>Widefield Diamond Quantum Sensing with Neuromorphic Vision Sensors</a>, <em class='journal'>Advanced Science</em>, 11, 2304355 (2024)</li>
+<li>Shujing Zhao, Chuan Yu Han, Fengbin Tian, Yubin Yuan, Junshuai Chai, Hao Xu, Shiquan Fan, Xin Li, Weihua Liu, <em class='first'>Can Li</em>, Wing Man Tang, PT Lai, Xiaodong Huang, Guohe Zhang, Li Geng, Xiaolei Wang, A 1T1M programmable artificial spiking neuron via the integration of FeFET and NbOx Mott memristor, <em class='journal'>IEEE Electron Device Letters</em>, (2024)</li>
+<li>Yiyang Chen, Lixia Han, Yizhou Zhang, Zheng Zhou, Peng Huang, <em class='first'>Can Li</em>, Lifeng Liu, Jinfeng Kang, Inner Product Accelerating Scheme based on RRAM Array for Attention-mechanism Neural Network, <em class='journal'>IEEE Electron Device Letters</em>, 45, 360 – 363 (2024)</li>
+<li>Song Wang, Zhu Wang, <em class='first'>Can Li</em>, Xiaojuan Qi, Hayden Kwok-Hay So, Spikemot: Event-based multi-object tracking with sparse motion features, <em class='journal'>IEEE Access</em>, (2024)</li>
 </ol>
-<!-- #### Conference Papers
+
+#### Conference Papers
 <ol>
-</ol> -->
+<li>Keyi Shan†, Mingrui Jiang†, Zhiyuan Du, Yu Xiao, Yunwei Tong, Zefan Li, Szu-Hao Yang, Chengping He, Ruibin Mao, Peng Lin*, <em class='first'>Can Li*</em>, One-Step Combinatorial Optimization Solver with Fully Integrated Analog Memristors and Annealing Module, <em class='journal'>IEEE International Electron Devices Meeting (IEDM)</em>, Dec. 7-11, 2024</li>
+<li>Peiyi He, Ruibin Mao, Keyi Shan, Yunwei Tong, Zhicheng Xu, Muyuan Peng, Ruibang Luo*, <em class='first'>Can Li*</em>, ShiftCAM: A Time-Domain Content Addressable Memory Utilizing Shifted Hamming Distance for Robust Genome Analysis, <em class='journal'>IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</em>, 2024</li>
+<li>Zhicheng Xu, Che-Kai Liu, Chao Li, Ruibin Mao, Jianyi Yang, Thomas Kämpfe, Mohsen Imani, <em class='first'>Can Li*</em>, Cheng Zhuo, Xunzhao Yin, Ferex: A reconfigurable design of multi-bit ferroelectric compute-in-memory for nearest neighbor search, <em class='journal'>Design, Automation & Test in Europe Conference & Exhibition (DATE)</em>, 1-6 (2024)</li>
+<li>Tianshu Hou, Yuan Ren, Wenyong Zhou, <em class='first'>Can Li</em>, Zhongrui Wang, Hai-Bao Chen, Ngai Wong, Physics-Informed Learning for Versatile RRAM Reset and Retention Simulation, <em class='journal'>29th Asia and South Pacific Design Automation Conference (ASP-DAC)</em>, 746-751 (2024)</li>
+</ol>
+
+
 
 ### 2023
 #### Journal Papers
