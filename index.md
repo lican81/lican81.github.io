@@ -12,7 +12,14 @@ Welcome to the **C**ognitive and **A**daptive **N**euromorphic computing **Lab**
 <iframe class="slideshow-iframe" src="slides/home-pics.html"
 style="width:100%; height: 450px"  frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
 
-We have immediate openings for **postdoctoral fellows** and multiple **Ph.D. positions** starting Fall '26. If you’re interested in joining us, please email me at [canl@hku.hk](mailto:canl@hku.hk).
+We are actively recruiting **Postdoctoral Fellows**, in particular for candidates with expertise in:
+ * HfO2-based FeRAM, FeFET, and 2T1C/1T1C device, and BEOL-compatible integration / 3D stacking.
+ * FPGA/PCB-based system building and experimental benchmarking of prototype chips;
+ * Hardware-software codesign for Transformer/LLM algorithms.
+ 
+Interested candidates please send your CV to **Prof. Can Li** at [canl@hku.hk](mailto:canl@hku.hk).
+
+<!-- We have immediate openings for **postdoctoral fellows** and multiple **Ph.D. positions** starting Fall '26. If you’re interested in joining us, please email me at [canl@hku.hk](mailto:canl@hku.hk). -->
 
 
 <!-- Within the **C**hips for 

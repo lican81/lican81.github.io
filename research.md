@@ -5,11 +5,13 @@ title: Research
 
 <!-- <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script> -->
 
-The goal of our research is to explore and build the next-generation hardware based on post-CMOS emerging devices, e.g. memristors. From top-down, we examine the existing algorithms and determine the most crucial task to accelerate with our hardware. Examples include but not limited to matrix multiplication in A.I./machine learning tasks. In the meanwhile, we optimize and characterize the device performance, including their nonlinear dynamics, and build novel circuit/architecture/algorithm from bottom up. 
+The goal of our research is to explore and build the next-generation hardware based on post-CMOS emerging devices, e.g. memristors. From top-down, we examine the existing algorithms (like Transformers) and determine the most crucial task to accelerate with our hardware. Examples include but not limited to matrix multiplication in A.I./machine learning tasks. In the meanwhile, we optimize and characterize the device performance, including their nonlinear dynamics, and build novel circuit/architecture/algorithm from bottom up. 
 
-The followings are example topics. If you are interested in joining us (as research postgraduate (e.g. Ph.D., MPhil.,) students, research assistant, postdoc) and would like to know about the on-going topics, please feel free to contact me at [canl@hku.hk](mailto:canl@hku.hk). 
+The followings are example topics. If you are interested in joining us (as research postgraduate (e.g. Ph.D., MPhil.,) students, research assistant, postdoc) and would like to know about ongoing topics, please feel free to contact me at [canl@hku.hk](mailto:canl@hku.hk). 
 
-### 1. CMOS compatible memristor device integration and nanofabrication
+### 1. CMOS compatible novel devices and their integration/nanofabrication
+
+We explore novel devices such as memristors (RRAM), atomically thin two-dimensional materials (like MoS2), and other novel device concepts, to build next-generation memory and computing devices with superior energy efficiency and scaling potential.
 
 <!-- <div class="clearfix">
     <a href="http://dx.doi.org/10.1002/adma.201606482"><span class="cover" id="fib"></span></a>
@@ -21,6 +23,12 @@ The followings are example topics. If you are interested in joining us (as resea
 
 References:
 
+- [[Nature Nanotechnology]](https://doi.org/10.1038/s41565-025-02089-7), 2025  
+G. Gao, B. Wen, et al., _Sb-contacted MoS2 flash memory for analogue in-memory searches._
+
+- [[IEDM]](https://ieeexplore.ieee.org/document/10019348), 2025  
+R. Qiu, G. Gao, et al., _Monolithic 3D Integration of MoS2 eDRAM and RRAM for Analog In-Memory Attention Computing._
+
 - [[Nature Electronics]](https://www.nature.com/articles/s41928-020-0397-9), 2020  
 P. Lin, C. Li, et al., _Three-dimensional memristor circuits as complex neural networks._ [Preview PDF](https://rdcu.be/b3xJn)
 
@@ -30,11 +38,19 @@ S. Pi, C. Li, et al., _Memristor crossbar arrays with 6-nm half-pitch and 2-nm c
 - [[Nature Communications]](https://www.nature.com/articles/ncomms15666), 2017  
 C. Li, et al., _Three-Dimensional Crossbar Arrays of Self-rectifying Si/SiO2/Si Memristors._ [Open Access PDF](https://www.nature.com/articles/ncomms15666.pdf)
 
-### 2. Novel application, circuit, device, and their co-design.
+### 2. Novel applications and their co-design.
+
+Beyond standard AI, we develop hardware-software co-designs for specialized domain applications, such as real-time genomic analysis and solving hard optimization problems.
 
 ![Apps](assets/img/research_apps.svg)
 
 References:
+
+- [[Nature Computational Science]](https://doi.org/10.1038/s43588-025-00867-w), 2025  
+P. He, ... C. Li, _Real-time raw signal genomic analysis using fully integrated memristor hardware._
+
+- [[IEDM]](https://ieeexplore.ieee.org/document/10019348), 2024  
+K. Shan, M. Jiang, ... C. Li, _One-Step Combinatorial Optimization Solver with Fully Integrated Analog Memristors and Annealing Module._
 
 - [[Nature Communications]](https://www.nature.com/articles/s41467-023-41647-2), 2023    
 M. Jiang, K. Shan, C. He, C. Li, Efficient combinatorial optimization by quantum-inspired parallel annealing in analogue memristor crossbar.  [Open Access PDF](https://www.nature.com/articles/s41467-023-41647-2.pdf)
@@ -55,14 +71,26 @@ H. Jiang†, C. Li†, et al., _Provable Key Destruction with Large Memristor Cr
 C. E. Graves, C. Li, et al., _In-Memory Computing with Memristor Content Addressable Memories for Pattern Matching_  -->
 
 
-### 3. A.I./Machine learning hardware accelerators based on emerging devices. 
+### 3. A.I./Machine learning hardware accelerators and precision analog computing. 
+
+We build high-precision analog computing platforms and efficient AI accelerators, addressing key challenges like device non-ideality, precision, and peripheral circuit overhead (ADC).
 
 ![Chip](assets/img/research_NN.svg)
 
+
 References:
 
-- [[Nature Communications]](https://www.nature.com/articles/s41467-022-33629-7), 2022 
-R. Mao, B. Wen, ... C. Li _Experimentally validated memristive memory augmented neural network with efficient hashing and similarity search_. [Open Access PDF](https://www.nature.com/articles/s41467-022-33629-7.pdf)
+- [[Nature Communications]](https://www.nature.com/articles/s41467-025-65233-w), 2025  
+H. Hong, ... C. Li, N. Wong, _Memristor-based adaptive analog-to-digital conversion for efficient and accurate compute-in-memory._
+
+- [[Nature Communications]](https://www.nature.com/articles/s41467-025-56254-6), 2025  
+J. Yang, R. Mao, ... C. Li, A. Basu, _Efficient Nonlinear Function Approximation in Analog Resistive Crossbars for Recurrent Neural Networks._
+
+- [[Science]](https://www.science.org/doi/10.1126/science.adi9405), 2024  
+W. Song, ... C. Li, ... J. J. Yang, _Programming memristor arrays with arbitrarily high precision for analog computing._
+
+- [[Nature Communications]](https://www.nature.com/articles/s41467-022-33629-7), 2022 \\
+R. Mao, B. Wen, ... C. Li, _Experimentally validated memristive memory augmented neural network with efficient hashing and similarity search_. [Open Access PDF](https://www.nature.com/articles/s41467-022-33629-7.pdf)
 
 - [[Nature Communications]](https://www.nature.com/articles/s41467-018-04484-2), 2018  
 C. Li, et al., _Efficient and self-adaptive in-situ learning in multilayer memristor neural networks_. [Open Access PDF](https://www.nature.com/articles/s41467-018-04484-2.pdf)
@@ -81,6 +109,15 @@ Z. Wang†, C. Li†, et al., _Reinforcement learning with analog memristor arra
 
 
 
+
+### Funding Support
+
+We gratefully acknowledge the support from the following agencies:
+
+| <img src="assets/img/logos/croucher.svg" height="70" alt="Croucher"> | <img src="assets/img/logos/rgc.png" height="50" alt="RGC"> | <img src="assets/img/logos/itc.png" height="60" alt="ITC"> | <img src="assets/img/logos/nsfc.png" height="60" alt="NSFC"> |
+|:---:|:---:|:---:|:---:|
+| **Croucher Foundation** | **Research Grants Council** | **Inno & Tech Commission** | **NSFC** |
+| Innovation Award | TRS, CRF, GRF, JRS, ECS | MHKJFS, InnoHK | Excellent Young Scientists Fund |
 
 
 
