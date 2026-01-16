@@ -179,6 +179,8 @@ title: Members
 
 #### Former Members
 
+- **Szu Hao Yang** Research Assitant (2023-2024)
+  - Now System validation engineer in Micron Taiwan
 - **Md Iftekharul Alam** Postdoctoral Fellow (2021-2022)
   - Now a Researcher at Hiroshima University.
 - **Yahui Zhao** Research Assitant (2020-2021)
@@ -199,4 +201,5 @@ title: Members
     Yahui Zhao, <br/> Research Assistant  <br/>
     M.S. HKU, <br/> B.S. Wuhan University
 </div> 
+
 {% endcomment %}
