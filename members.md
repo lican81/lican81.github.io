@@ -36,7 +36,8 @@ title: Members
 
 <div class="profile_div">
     <img src="/assets/pics/Mingrui_Jiang.jpg" class="profile_pic">  
-    Mingrui Jiang, <br/>Ph.D. Student  <br/>
+    Mingrui Jiang, <br/>Postdoctoral Fellow  <br/>
+    Ph.D. The University of Hong Kong, <br/>
     B.S. Huazhong University of Science and Technology
 </div>
 

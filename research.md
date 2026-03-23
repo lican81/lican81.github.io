@@ -123,7 +123,7 @@ We gratefully acknowledge the support from the following agencies:
 
 ### You may find other related background information from the following links:
 
-- [Center for Advanced Semiconductors and Integrated Circuits (CASIC) at HKU](https://www.casic.hku.hk/)
+- [Center for Advanced Semiconductors and Integrated Circuits (CASIC) at HKU](https://casic.hku.hk/)
 - [AI Chip Center for Emerging Smart Systems (ACCESS)](https://inno-access.hk/)
 - [Dot Product Engine by Hewlett Packard Labs](https://community.hpe.com/t5/Advancing-Life-Work/The-Dot-Product-Engine-Next-Next/ba-p/7069029#.YuzWx-xBxQM){:target="_blank"} 
 - [Prof. Qiangfei Xia's group site](http://nano.ecs.umass.edu)
