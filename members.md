@@ -113,13 +113,13 @@ title: Members
 
 <div class="profile_div">
     <img src="/assets/pics/Peiyi_He.jpg" class="profile_pic">  
-    <br/><a href="https://peiyihe.github.io/">Peiyi He</a>, <br/>Ph.D. Student<br/>
+    <br/>Peiyi He, <a href="https://peiyihe.github.io/">[Biography]</a>, <br/>Ph.D. Student<br/>
     B.S. Tsinghua University <br/>
 </div>
 
 <div class="profile_div">
     <img src="/assets/pics/Haozheng_Wan.jpg" class="profile_pic">  
-    <br/>Haozheng Wan, <br/>Ph.D. Student<br/>
+    <br/>Haozheng Wan, <a href="https://haozhengwan.github.io/">[Biography]</a>, <br/>Ph.D. Student<br/>
     B.S. Harbin Institute of Technology <br/>
 </div>
 
