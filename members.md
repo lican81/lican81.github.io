@@ -113,7 +113,7 @@ title: Members
 
 <div class="profile_div">
     <img src="/assets/pics/Peiyi_He.jpg" class="profile_pic">  
-    <br/>Peiyi He, <br/>Ph.D. Student<br/>
+    <br/><a href="https://peiyihe.github.io/">Peiyi He</a>, <br/>Ph.D. Student<br/>
     B.S. Tsinghua University <br/>
 </div>
 
