@@ -170,7 +170,7 @@ title: Members
 
 <div class="profile_div">
     <img src="/assets/pics/Jinquan_Shi.jpeg" class="profile_pic">  
-    <br/>Jinquan Shi, <br/>Ph.D. Student<br/>
+    <br/>Jinquan Shi, <a href="https://www.linkedin.com/in/jinquan-shi-037997213/">[LinkedIn]</a>, <br/>Ph.D. Student<br/>
     MS. Yale University <br/>
     B.S. Zhejiang University <br/>
     <br/>
