@@ -4,3 +4,7 @@ assets/.DS_Store
 .jekyll-cache/*
 .jekyll-cache/Jekyll
 */.DS_Store
+
+# Local-only Gemfile for previewing with modern Jekyll; GitHub Pages uses its own build
+Gemfile
+Gemfile.lock
