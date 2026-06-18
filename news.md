@@ -3,6 +3,15 @@ layout: default
 title: News
 ---
 
+- [Jun 2026]
+  - Our paper "[Fault-free analogue computing with imperfect hardware](https://doi.org/10.1038/s41928-026-01638-9)" has been published by *Nature Electronics*! Congratulations to Zhicheng, Jiawei and all!
+
+- [Apr 2026]
+  - Our paper "[Trustworthy tree-based machine learning by MoS2 flash-based analog content-addressable memory with inherent soft boundaries](https://doi.org/10.1038/s41467-026-72118-z)" has been published by *Nature Communications*! Congratulations to Bo, Guoyun and all!
+
+- [Feb 2026]
+  - Our paper "[A hardware-adaptive learning algorithm for superlinear-capacity associative memory on memristor crossbars](https://doi.org/10.1038/s41467-026-69958-0)" has been published by *Nature Communications*! Congratulations to Chengping and all!
+
 - [Dec 2025]
   - Our paper "[Sb-contacted MoS2 flash memory for analogue in-memory searches](https://doi.org/10.1038/s41565-025-02089-7)" has been published by *Nature Nanotechnology*! Congratulations to Guoyun, Bo and all!
   - Our paper "Monolithic 3D Integration of MoS2 eDRAM and RRAM for Analog In-Memory Attention Computing" was presented at *IEEE IEDM 2025*! Congratulations to Rui, Guoyun and all!
