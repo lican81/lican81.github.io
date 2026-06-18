@@ -23,10 +23,10 @@ We explore novel devices such as memristors (RRAM), atomically thin two-dimensio
 
 References:
 
-- [[Nature Nanotechnology]](https://doi.org/10.1038/s41565-025-02089-7), 2025  
+- [[Nature Nanotechnology]](https://doi.org/10.1038/s41565-025-02089-7), 2026  
 G. Gao, B. Wen, et al., _Sb-contacted MoS2 flash memory for analogue in-memory searches._
 
-- [[IEDM]](https://ieeexplore.ieee.org/document/10019348), 2025  
+- [[IEDM]](https://ieeexplore.ieee.org/document/11353844/), 2025  
 R. Qiu, G. Gao, et al., _Monolithic 3D Integration of MoS2 eDRAM and RRAM for Analog In-Memory Attention Computing._
 
 - [[Nature Electronics]](https://www.nature.com/articles/s41928-020-0397-9), 2020  
@@ -40,16 +40,19 @@ C. Li, et al., _Three-Dimensional Crossbar Arrays of Self-rectifying Si/SiO2/Si 
 
 ### 2. Novel applications and their co-design.
 
-Beyond standard AI, we develop hardware-software co-designs for specialized domain applications, such as real-time genomic analysis and solving hard optimization problems.
+Beyond standard AI, we develop hardware-software co-designs for specialized domain applications, such as real-time genomic analysis, trustworthy and explainable machine learning, and solving hard optimization problems.
 
 ![Apps](assets/img/research_apps.svg)
 
 References:
 
+- [[Nature Communications]](https://www.nature.com/articles/s41467-026-72118-z), 2026  
+B. Wen, G. Gao, ... C. Li, _Trustworthy tree-based machine learning by MoS2 flash-based analog content-addressable memory with inherent soft boundaries._
+
 - [[Nature Computational Science]](https://doi.org/10.1038/s43588-025-00867-w), 2025  
 P. He, ... C. Li, _Real-time raw signal genomic analysis using fully integrated memristor hardware._
 
-- [[IEDM]](https://ieeexplore.ieee.org/document/10019348), 2024  
+- [[IEDM]](https://ieeexplore.ieee.org/document/10873331), 2024  
 K. Shan, M. Jiang, ... C. Li, _One-Step Combinatorial Optimization Solver with Fully Integrated Analog Memristors and Annealing Module._
 
 - [[Nature Communications]](https://www.nature.com/articles/s41467-023-41647-2), 2023    
@@ -73,12 +76,18 @@ C. E. Graves, C. Li, et al., _In-Memory Computing with Memristor Content Address
 
 ### 3. A.I./Machine learning hardware accelerators and precision analog computing. 
 
-We build high-precision analog computing platforms and efficient AI accelerators, addressing key challenges like device non-ideality, precision, and peripheral circuit overhead (ADC).
+We build high-precision analog computing platforms and efficient AI accelerators, addressing key challenges like device non-ideality, hardware faults, precision, and peripheral circuit overhead (ADC), including fault-tolerant ("fault-free") representations that keep analog computing robust on imperfect hardware.
 
 ![Chip](assets/img/research_NN.svg)
 
 
 References:
+
+- [[Nature Electronics]](https://www.nature.com/articles/s41928-026-01638-9), 2026  
+Z. Xu, J. Liu, ... C. Li, _Fault-free analogue computing with imperfect hardware._
+
+- [[Nature Communications]](https://www.nature.com/articles/s41467-026-69958-0), 2026  
+C. He, M. Jiang, ... C. Li, _A hardware-adaptive learning algorithm for superlinear-capacity associative memory on memristor crossbars._
 
 - [[Nature Communications]](https://www.nature.com/articles/s41467-025-65233-w), 2025  
 H. Hong, ... C. Li, N. Wong, _Memristor-based adaptive analog-to-digital conversion for efficient and accurate compute-in-memory._
