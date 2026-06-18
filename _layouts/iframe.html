@@ -20,8 +20,14 @@
       margin: 0;
       overflow-x: hidden;
     }
-    img {
-      min-width: 100%
+    img, video {
+      display: block;
+      width: 100%;
+      /* Fixed aspect ratio so slide height is known at init, before the
+         video's metadata loads (otherwise Chrome measures it short). */
+      aspect-ratio: 16 / 9;
+      height: auto;
+      object-fit: cover;
     }
   </style>
 </head>
