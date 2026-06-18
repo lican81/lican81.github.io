@@ -55,10 +55,30 @@ More filed patents pending...
   <em class='journal'>Nature Nanotechnology</em>, 21, 198 - 206 (2026).  
   Highlighted in [Phys.org](https://phys.org/news/2026-01-atom-thin-content-memory-enables.html), [MIT Tech Review China](https://www.mittrchina.com/news/detail/16033), [HKU-ECE News](https://www.eee.hku.hk/20251217-2/)
 
-2. Chengping He, Mingrui Jiang, Keyi Shan, Szu-Hao Yang, Zefan Li, Shengbo Wang, Giacomo Pedretti, Jim Ignowski, <em class="first">Can Li</em>,  
+2. Chengping He, Mingrui Jiang, Keyi Shan, Szu-Hao Yang, Zefan Li, Shengbo Wang, Giacomo Pedretti, Jim Ignowski, <em class="first">Can Li*</em>,  
     [A hardware-adaptive learning algorithm for superlinear-capacity associative memory on memristor crossbars](https://www.nature.com/articles/s41467-026-69958-0),  
     <em class="journal">Nature Communications</em>, (2026).  
     Published online 23 February 2026.
+
+3. Zhicheng Xu, Jiawei Liu, Sitao Huang, Zefan Li, Shengbo Wang, Bo Wen, Ruibin Mao, Mingrui Jiang, Giacomo Pedretti, Jim Ignowski, Kaibin Huang, <em class="first">Can Li*</em>,  
+   [Fault-free analogue computing with imperfect hardware](https://www.nature.com/articles/s41928-026-01638-9),  
+   <em class="journal">Nature Electronics</em>, (2026)
+
+4. Bo Wen, Guoyun Gao, Zhicheng Xu, Mingrui Jiang, Ruibin Mao, Xiaojuan Qi, Jiezhi Chen, Xunzhao Yin, X. Sharon Hu, <em class="first">Can Li*</em>,  
+   [Trustworthy tree-based machine learning by MoS2 flash-based analog content-addressable memory with inherent soft boundaries](https://www.nature.com/articles/s41467-026-72118-z),  
+   <em class="journal">Nature Communications</em>, (2026)
+
+5. Jingcheng Zhang, Lei Chen, Jinlin Sun, Shumin Li, Yekai Zhou, Zhenqin Wu, <em class="first">Can Li</em>, Zhenxian Zheng, Ruibang Luo,  
+   [Gungnir codec enabling high error-tolerance and low-redundancy DNA storage through substantial computing power](https://www.nature.com/articles/s41467-026-71485-x),  
+   <em class="journal">Nature Communications</em>, 17, 4828 (2026)
+
+6. Yi Ji, Tianhao Zhao, Yuxuan Liu, Zhiyuan Du, John G. Labram, <em class="first">Can Li</em>, Tianshuo Zhao,  
+   [PbS quantum dot retinomorphic sensors for event-based shortwave infrared imagers](https://www.cell.com/device/abstract/S2666-9986(26)00063-3),  
+   <em class="journal">Device</em>, (2026)
+
+7. Shuang Wang, Zhiyuan Li, Mengjiao Pei, &hellip;, <em class="first">Can Li</em>, &hellip;, Yang Chai (80+ authors),  
+   [Technology Roadmap of Bioinspired Computing Hardware](https://pubs.acs.org/doi/abs/10.1021/acsnano.5c17087),  
+   <em class="journal">ACS Nano</em>, 20, 8102 - 8163 (2026)
 
 ### 2025
 #### Journal Papers
@@ -108,11 +128,19 @@ More filed patents pending...
     Exploiting Quasi-Volatility in Silver-Doped RRAMs for Physical Unclonable Functions Toward Robust Security Primitives,  
     <em class="journal">IEEE Transactions on Electron Devices</em>, (2025)
 
+12. <em class="first">Can Li</em>, Jason K. Eshraghian, Giacomo Pedretti,  
+    [Focus issue on open neuromorphic simulations](https://iopscience.iop.org/article/10.1088/2634-4386/ae11d1/meta),  
+    <em class="journal">Neuromorphic Computing and Engineering</em>, 5, 040201 (2025) (Editorial)
+
 #### Conferences
 
 1. Rui Qiu†, Guoyun Gao†, Zhiyuan Du, Ni Yang, Zefan Li, Dongsheng Zuo, Yunwei Tong, Peiyi He, Hangming Zhang, Hao Jiang, Lain-Jong Li, Han Wang, <em class="first">Can Li\*</em>,  
-   Monolithic 3D Integration of MoS2 eDRAM and RRAM for Analog In-Memory Attention Computing,  
+   [Monolithic 3D Integration of MoS2 eDRAM and RRAM for Analog In-Memory Attention Computing](https://ieeexplore.ieee.org/document/11353844/),  
    <em class="journal">2025 IEEE International Electron Devices Meeting (IEDM)</em>, (2025)
+
+2. Salim Ullah, Siva Satyendra Sahoo, <em class="first">Can Li</em>, Chao Li, Liu Liu, Tomas Sousa Pereira, Bo Wen, Xunzhao Yin, Armin Darjani, Nima Kavand, Chakravarthy Bodla, Rupa Yashaswi Panduga, Aniruddh Holemadlu, Johannes Maly, Jonathan F&ouml;rste, Samarth Vadia, Xiaobo Sharon Hu, Akash Kumar,  
+   [Circuit and Architecture Design with Emerging Computing Paradigms](https://ieeexplore.ieee.org/abstract/document/11240725/),  
+   <em class="journal">2025 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)</em>, 1-9 (2025)
 
 
 
