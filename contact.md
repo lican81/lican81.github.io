@@ -8,7 +8,7 @@ title: Contact
 
 #### Associate Professor
 
-Department of Electrical and Electronic Engineering  
+Department of Electrical and Computer Engineering  
 The University of Hong Kong,  
 Chow Yei Ching Building, Room 520,  
 Pokfulam Road, Hong Kong SAR

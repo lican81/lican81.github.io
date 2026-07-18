@@ -3,7 +3,7 @@ layout: default
 title: Dr. Can Li
 ---
 
-My name is **Can Li** (Chinese: <b class="name-ch">李燦</b>), and I am currently an associate professor at the Department of Electrical and Electronic Engineering (EEE) of **the University of Hong Kong (HKU)**, where I also serve as the Associate Director of the [Centre for Advanced Semiconductors and Integrated Circuits (CASIC)](https://casic.hku.hk/) and the Programme Director of the BEng in Electronic Engineering. I work on analog and neuromorphic computing accelerators based on post-CMOS emerging devices (e.g., memristors), for efficient machine/deep learning, network security, signal processing, etc. Before that, I spent two years at Hewlett Packard Labs in Palo Alto, California, and obtained my Ph.D. from University of Massachusetts, Amherst, and B.S./M.S. from Peking University.
+My name is **Can Li** (Chinese: <b class="name-ch">李燦</b>), and I am currently an associate professor at the Department of Electrical and Computer Engineering (ECE) of **the University of Hong Kong (HKU)**, where I also serve as the Associate Director of the [Centre for Advanced Semiconductors and Integrated Circuits (CASIC)](https://casic.hku.hk/) and the Programme Director of the BEng in Electronic Engineering. I work on analog and neuromorphic computing accelerators based on post-CMOS emerging devices (e.g., memristors), for efficient machine/deep learning, network security, signal processing, etc. Before that, I spent two years at Hewlett Packard Labs in Palo Alto, California, and obtained my Ph.D. from University of Massachusetts, Amherst, and B.S./M.S. from Peking University.
 
 #### Professional Activities
 

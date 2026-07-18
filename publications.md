@@ -53,7 +53,7 @@ More filed patents pending...
 1. Guoyun Gao†, Bo Wen†, Ni Yang, Zhiyuan Du, Mingrui Jiang, Ruibin Mao, Rui Qiu, Yingnan Cao, Hongxia Xue, Deng Zou, Pak San Yip, Qihan Liu, Yi Wan, Dong-Keun Ki, Jinyao Tang, Paddy K. L. Chan, Hao Jiang, Han Wang, Lain-Jong Li*, <em class='first'>Can Li*</em>,  
   [Sb-contacted MoS2 flash memory for analogue in-memory searches](https://www.nature.com/articles/s41565-025-02089-7),  
   <em class='journal'>Nature Nanotechnology</em>, 21, 198 - 206 (2026).  
-  Highlighted in [Phys.org](https://phys.org/news/2026-01-atom-thin-content-memory-enables.html), [MIT Tech Review China](https://www.mittrchina.com/news/detail/16033), [HKU-ECE News](https://www.eee.hku.hk/20251217-2/)
+  Highlighted in [Phys.org](https://phys.org/news/2026-01-atom-thin-content-memory-enables.html), [MIT Tech Review China](https://www.mittrchina.com/news/detail/16033), [HKU-ECE News](https://ece.hku.hk/20251217-2/)
 
 2. Chengping He, Mingrui Jiang, Keyi Shan, Szu-Hao Yang, Zefan Li, Shengbo Wang, Giacomo Pedretti, Jim Ignowski, <em class="first">Can Li*</em>,  
     [A hardware-adaptive learning algorithm for superlinear-capacity associative memory on memristor crossbars](https://www.nature.com/articles/s41467-026-69958-0),  

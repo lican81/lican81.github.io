@@ -58,7 +58,7 @@ title: Members
 
 <div class="profile_div">
     <img src="/assets/pics/Zhiyuan_Du.jpg" class="profile_pic">  
-    <br/>Zhiyuan Du, <br/>Ph.D. Student (co-supervised with <a href="https://www.eee.hku.hk/~nwong/">Ngai Wong</a> and <a href="https://www.zqchu-pbblab.hku.hk">Zhiqin Chu</a>])  <br/>
+    <br/>Zhiyuan Du, <br/>Ph.D. Student (co-supervised with <a href="https://web.ece.hku.hk/~nwong/">Ngai Wong</a> and <a href="https://www.zqchu-pbblab.hku.hk">Zhiqin Chu</a>])  <br/>
     M.S./B.S. Beijing Institute of Technology
 </div>
 
