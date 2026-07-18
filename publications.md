@@ -62,7 +62,8 @@ More filed patents pending...
 
 3. Zhicheng Xu, Jiawei Liu, Sitao Huang, Zefan Li, Shengbo Wang, Bo Wen, Ruibin Mao, Mingrui Jiang, Giacomo Pedretti, Jim Ignowski, Kaibin Huang, <em class="first">Can Li*</em>,  
    [Fault-free analogue computing with imperfect hardware](https://www.nature.com/articles/s41928-026-01638-9),  
-   <em class="journal">Nature Electronics</em>, (2026)
+   <em class="journal">Nature Electronics</em>, (2026).  
+   Highlighted in [Croucher News](https://croucher.org.hk/en/news/making-the-most-of-imperfect-hardware), [Tech Xplore](https://techxplore.com/news/2026-07-method-fault-tolerant-analog-memory.html), [Semiconductor Engineering](https://semiengineering.com/fault-free-matrix-for-analog-hardware-the-univ-of-hong-kong-univ-of-oxford-hewlett-packard-labs/)
 
 4. Bo Wen, Guoyun Gao, Zhicheng Xu, Mingrui Jiang, Ruibin Mao, Xiaojuan Qi, Jiezhi Chen, Xunzhao Yin, X. Sharon Hu, <em class="first">Can Li*</em>,  
    [Trustworthy tree-based machine learning by MoS2 flash-based analog content-addressable memory with inherent soft boundaries](https://www.nature.com/articles/s41467-026-72118-z),  
