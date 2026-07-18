@@ -50,20 +50,20 @@ More filed patents pending...
 ### 2026
 #### Journal Papers
 
-1. Guoyun Gao†, Bo Wen†, Ni Yang, Zhiyuan Du, Mingrui Jiang, Ruibin Mao, Rui Qiu, Yingnan Cao, Hongxia Xue, Deng Zou, Pak San Yip, Qihan Liu, Yi Wan, Dong-Keun Ki, Jinyao Tang, Paddy K. L. Chan, Hao Jiang, Han Wang, Lain-Jong Li*, <em class='first'>Can Li*</em>,  
+1. Zhicheng Xu, Jiawei Liu, Sitao Huang, Zefan Li, Shengbo Wang, Bo Wen, Ruibin Mao, Mingrui Jiang, Giacomo Pedretti, Jim Ignowski, Kaibin Huang, <em class="first">Can Li*</em>,  
+   [Fault-free analogue computing with imperfect hardware](https://www.nature.com/articles/s41928-026-01638-9),  
+   <em class="journal">Nature Electronics</em>, (2026).  
+   Highlighted in [Croucher News](https://croucher.org.hk/en/news/making-the-most-of-imperfect-hardware), [Tech Xplore](https://techxplore.com/news/2026-07-method-fault-tolerant-analog-memory.html), [Semiconductor Engineering](https://semiengineering.com/fault-free-matrix-for-analog-hardware-the-univ-of-hong-kong-univ-of-oxford-hewlett-packard-labs/)
+
+2. Guoyun Gao†, Bo Wen†, Ni Yang, Zhiyuan Du, Mingrui Jiang, Ruibin Mao, Rui Qiu, Yingnan Cao, Hongxia Xue, Deng Zou, Pak San Yip, Qihan Liu, Yi Wan, Dong-Keun Ki, Jinyao Tang, Paddy K. L. Chan, Hao Jiang, Han Wang, Lain-Jong Li*, <em class='first'>Can Li*</em>,  
   [Sb-contacted MoS2 flash memory for analogue in-memory searches](https://www.nature.com/articles/s41565-025-02089-7),  
   <em class='journal'>Nature Nanotechnology</em>, 21, 198 - 206 (2026).  
   Highlighted in [Phys.org](https://phys.org/news/2026-01-atom-thin-content-memory-enables.html), [MIT Tech Review China](https://www.mittrchina.com/news/detail/16033), [HKU-ECE News](https://ece.hku.hk/20251217-2/)
 
-2. Chengping He, Mingrui Jiang, Keyi Shan, Szu-Hao Yang, Zefan Li, Shengbo Wang, Giacomo Pedretti, Jim Ignowski, <em class="first">Can Li*</em>,  
+3. Chengping He, Mingrui Jiang, Keyi Shan, Szu-Hao Yang, Zefan Li, Shengbo Wang, Giacomo Pedretti, Jim Ignowski, <em class="first">Can Li*</em>,  
     [A hardware-adaptive learning algorithm for superlinear-capacity associative memory on memristor crossbars](https://www.nature.com/articles/s41467-026-69958-0),  
     <em class="journal">Nature Communications</em>, (2026).  
     Published online 23 February 2026.
-
-3. Zhicheng Xu, Jiawei Liu, Sitao Huang, Zefan Li, Shengbo Wang, Bo Wen, Ruibin Mao, Mingrui Jiang, Giacomo Pedretti, Jim Ignowski, Kaibin Huang, <em class="first">Can Li*</em>,  
-   [Fault-free analogue computing with imperfect hardware](https://www.nature.com/articles/s41928-026-01638-9),  
-   <em class="journal">Nature Electronics</em>, (2026).  
-   Highlighted in [Croucher News](https://croucher.org.hk/en/news/making-the-most-of-imperfect-hardware), [Tech Xplore](https://techxplore.com/news/2026-07-method-fault-tolerant-analog-memory.html), [Semiconductor Engineering](https://semiengineering.com/fault-free-matrix-for-analog-hardware-the-univ-of-hong-kong-univ-of-oxford-hewlett-packard-labs/)
 
 4. Bo Wen, Guoyun Gao, Zhicheng Xu, Mingrui Jiang, Ruibin Mao, Xiaojuan Qi, Jiezhi Chen, Xunzhao Yin, X. Sharon Hu, <em class="first">Can Li*</em>,  
    [Trustworthy tree-based machine learning by MoS2 flash-based analog content-addressable memory with inherent soft boundaries](https://www.nature.com/articles/s41467-026-72118-z),  
