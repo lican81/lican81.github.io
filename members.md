@@ -10,7 +10,7 @@ title: Members
     <img src="/assets/pics/Can_Li.jpeg" class="profile_pic">   
     <br/>
     Dr. Can Li <a href="/people-can.html">[Biography]</a>
-    <br/> Assistant Professor  <br/>
+    <br/> Associate Professor  <br/>
     Ph.D. UMass Amherst, <br/> 
     M.S./B.S. Peking University  <br/>
     

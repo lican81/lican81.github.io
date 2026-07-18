@@ -6,7 +6,7 @@ title: Contact
 
 ## Can Li (<b class="name-ch">李燦</b>)
 
-#### Assistant Professor
+#### Associate Professor
 
 Department of Electrical and Electronic Engineering  
 The University of Hong Kong,  
