@@ -7,7 +7,16 @@ title: index
 
 <!-- <img src="/assets/pics/yampak.jpeg" width='100%'> -->
 
-Welcome to the **C**ognitive and **A**daptive **N**euromorphic computing **Lab** (**CANLab**) at [the University of Hong Kong](https://www.hku.hk)! Our research expands from **micro/nanofabrication for emerging devices, prototype chip design/ tape-out/measurement, to hardware-algorithm co-optimization** for novel applications, including but not limited to A.I./machine learning. Please refer to the [Research](/research.html) page for more details.
+Welcome to the **C**ognitive and **A**daptive **N**euromorphic computing **Lab** (**CANLab**) at [the University of Hong Kong](https://www.hku.hk)! Our research develops analog computing hardware from emerging memory devices, spanning micro/nanofabrication, prototype chip design and measurement, and hardware-algorithm co-design. The work connects device physics with reliable in-memory computing for machine learning, search, genomic analysis, and combinatorial optimization. Please refer to the [Research](/research.html) page for more details.
+
+### Recent Research Highlights
+
+- [Fault-free analog computing with imperfect hardware](https://doi.org/10.1038/s41928-026-01638-9), *Nature Electronics* (2026).
+- [Trustworthy tree-based machine learning with MoS2 flash-based analog content-addressable memory](https://doi.org/10.1038/s41467-026-72118-z), *Nature Communications* (2026).
+- [Hardware-adaptive associative memory on memristor crossbars](https://doi.org/10.1038/s41467-026-69958-0), *Nature Communications* (2026).
+- [Sb-contacted MoS2 flash memory for in-memory searches](https://doi.org/10.1038/s41565-025-02089-7), *Nature Nanotechnology* (2026).
+
+See [Publications](/publications.html) for the publication list and [News](/news.html) for recent coverage.
 
 <iframe class="slideshow-iframe" src="slides/home-pics.html"
 style="width:100%; height: 450px"  frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
@@ -16,13 +25,13 @@ We are actively recruiting **Postdoctoral Fellows**, in particular for candidate
  * HfO2-based FeRAM, FeFET, and 2T1C/1T1C device, and BEOL-compatible integration / 3D stacking.
  * FPGA/PCB-based system building and experimental benchmarking of prototype chips;
  * Hardware-software codesign for Transformer/LLM algorithms.
- 
+
 Interested candidates please send your CV to **Prof. Can Li** at [canl@hku.hk](mailto:canl@hku.hk).
 
 <!-- We have immediate openings for **postdoctoral fellows** and multiple **Ph.D. positions** starting Fall '26. If you’re interested in joining us, please email me at [canl@hku.hk](mailto:canl@hku.hk). -->
 
 
-<!-- Within the **C**hips for 
+<!-- Within the **C**hips for
 **A**ccelerating
 **N**euromorphic applications
 Lab
@@ -30,7 +39,7 @@ Lab
 
 
 
-<!-- 
+<!--
 
 You can find me in a variety of places on the web:
 

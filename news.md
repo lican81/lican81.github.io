@@ -3,6 +3,17 @@ layout: default
 title: News
 ---
 
+- [Sep 2026]
+  - Our collaborative paper "[Memristive singular value decomposition](https://doi.org/10.1038/s41467-026-76272-2)" has been published in *Nature Communications*.
+  - Our associative-memory research with Hewlett Packard Labs was featured in [Ta Kung Pao, Education Online (教育線上)](https://epaper.tkww.hk/a/202609/07/AP6a9dcd57e4b0911458c37ad8.html) and [Sing Tao Headline](https://www.stheadline.com/zh-hans/edu-insights/3612482/).
+
+- [Aug 2026]
+  - Prof. Can Li discussed Hong Kong chip research on TVB's *A Closer Look* (時事多面睇), broadcast on 24 August. [Watch the broadcast](https://www.youtube.com/watch?v=NVOIBN1tnKo).
+  - Our analog in-memory search research was featured in [Ta Kung Pao](https://www.tkww.hk/epaper/view/newsDetail/2084710761304821760.html), [Wen Wei Po](https://www.wenweipo.com/a/202608/05/AP6a72a65ce4b0c1e500239c0b.html), and [unwire.hk](https://unwire.hk/2026/08/05/hku-atomic-scale-analog-in-memory-search-chip/mobile-phone/).
+
+- [Jul 2026]
+  - Can Li was promoted to Associate Professor with tenure in HKU's Department of Electrical and Computer Engineering.
+
 - [Jun 2026]
   - Our paper "[Fault-free analogue computing with imperfect hardware](https://doi.org/10.1038/s41928-026-01638-9)" has been published by *Nature Electronics*! Congratulations to Zhicheng, Jiawei and all!
 
@@ -22,28 +33,28 @@ title: News
 
 - [Sep 2025]
   - Our paper "[Real-time raw signal genomic analysis using fully integrated memristor hardware](https://doi.org/10.1038/s43588-025-00867-w)" has been published by *Nature Computational Science*! Congratulations to Peiyi and all!
-  - 
+
 - [Jan 2025]
   - Our paper "[Efficient Nonlinear Function Approximation in Analog Resistive Crossbars for Recurrent Neural Networks](https://www.nature.com/articles/s41467-025-56254-6)" has been published by *Nature Communications*! Congratulations to Junyi, Ruibin and all!
   - Mr. Shengbo Wang joined the group, welcome aboard!
 
 - [Dec 2024]
   - Our paper "One-Step Combinatorial Optimization Solver with Fully Integrated Analog Memristors and Annealing Module" was presented at *IEEE IEDM 2024*! Congratulations to Keyi, Mingrui and all!
-  - 
+
 - [Nov 2024]
   - Mr. Bofan Yang joined the group, welcome aboard!
-  
+
 - [September 2024]
   - Mr. Yunwei Tong, Miss. Jiajun Gao, Mr. Yuhang Xu and Miss Rui Qiu joined the group, welcome aboard!
-  
+
 - [Feb 2024]
   - Our paper "[Programming memristor arrays with arbitrarily high precision for analog computing](https://www.science.org/doi/10.1126/science.adi9405)" has been published by *Science*! Congratulations to the team!
 
-- [November 2023] 
-  - Our paper "[Widefield Diamond Quantum Sensing with Neuromorphic Vision Sensors](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202304355)" has just published online by Advanced Science! Congratulations to Zhiyuan and all! 
+- [November 2023]
+  - Our paper "[Widefield Diamond Quantum Sensing with Neuromorphic Vision Sensors](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202304355)" has just published online by Advanced Science! Congratulations to Zhiyuan and all!
 
-- [September 2023] 
-  - Our paper "[Efficient combinatorial optimization by quantum-inspired parallel annealing in analogue memristor crossbar](https://www.nature.com/articles/s41467-023-41647-2)" has just published online by Nature Commumications! Congratulations to Mingrui and all! 
+- [September 2023]
+  - Our paper "[Efficient combinatorial optimization by quantum-inspired parallel annealing in analogue memristor crossbar](https://www.nature.com/articles/s41467-023-41647-2)" has just published online by Nature Commumications! Congratulations to Mingrui and all!
 
 - [Auguest 2023]
   - Mr. Zhicheng Xu, Mr. Peiyi He and Mr. Haozheng Wan joined the group, welcome aboard!
@@ -52,7 +63,7 @@ title: News
    - Mr. Zefan Li joined the group, welcome aboard!
 
 - [October 2022]
-  - Our paper "[Experimentally validated memristive memory augmented neural network with efficient hashing and similarity search](https://www.nature.com/articles/s41467-022-33629-7)" is just published online by Nature Commumications! Congratulations to Ruibin and all! 
+  - Our paper "[Experimentally validated memristive memory augmented neural network with efficient hashing and similarity search](https://www.nature.com/articles/s41467-022-33629-7)" is just published online by Nature Commumications! Congratulations to Ruibin and all!
 
 - [September 2022]
   - Our paper “[An efficient synchronous updating memristor-based Ising solver for combinatorial optimization](https://ieeexplore.ieee.org/document/10019348)” was accepted for presentation at IEEE IEDM 2022! Congratulations to Mingrui and all!
@@ -65,7 +76,7 @@ title: News
 
 - [Janurary 2022]
    - Right before the covid spikes, we went for Dragon's back hiking! Checkout photos at [HERE](/activities).
-  
+
 - [September 2021]
     - Mr. Zhanzhi Liu joined the group, welcome aboard!
 - [July 2021]
@@ -78,11 +89,11 @@ title: News
     - Mr. Zhu Wang joined the group, welcome aboard!
     - In celebration of the Spring Festival, we replaced the group meeting with a group hiking! See photos at [HERE](/activities).
 - [December 2020]
-    - Dr. Can Li gave a talk at the IEEE International Electron Devices Meeting (IEDM) introducing the analog error-correcting code idea for analog computing in crossbars. 
+    - Dr. Can Li gave a talk at the IEEE International Electron Devices Meeting (IEDM) introducing the analog error-correcting code idea for analog computing in crossbars.
 - [November 2020]
     - Mr. Ruibin Mao joined the group, welcome aboard!
-- [October 2020]  
+- [October 2020]
     - Mr. Yahui Zhao and Mr. Mingrui Jiang joined the group, welcome aboard!
-- [July 2020]  
+- [July 2020]
     - Dr. Can Li gave an invited talk at the Phyiscal Society of Hong Kong Annual Conference.
     - Dr. Can Li joined HKU as an assistant professor!

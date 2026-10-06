@@ -3,7 +3,11 @@ layout: default
 title: Dr. Can Li
 ---
 
-My name is **Can Li** (Chinese: <b class="name-ch">李燦</b>), and I am currently an associate professor at the Department of Electrical and Computer Engineering (ECE) of **the University of Hong Kong (HKU)**, where I also serve as the Associate Director of the [Centre for Advanced Semiconductors and Integrated Circuits (CASIC)](https://casic.hku.hk/) and the Programme Director of the BEng in Electronic Engineering. I work on analog and neuromorphic computing accelerators based on post-CMOS emerging devices (e.g., memristors), for efficient machine/deep learning, network security, signal processing, etc. Before that, I spent two years at Hewlett Packard Labs in Palo Alto, California, and obtained my Ph.D. from University of Massachusetts, Amherst, and B.S./M.S. from Peking University.
+My name is **Can Li** (Chinese: <b class="name-ch">李燦</b>), and I am an Associate Professor in the Department of Electrical and Computer Engineering (ECE) at **the University of Hong Kong (HKU)**. I also serve as Associate Director of the [Centre for Advanced Semiconductors and Integrated Circuits (CASIC)](https://casic.hku.hk/) and Programme Director of the BEng in Electronic Engineering.
+
+My research develops analog in-memory computing hardware from post-CMOS emerging devices such as memristors, spanning device fabrication, circuit and architecture design, and algorithm co-design. The work focuses on reliability and fault tolerance of analog computation, emerging non-volatile memory devices, and applications including in-memory search, associative memory, genomic analysis, and combinatorial optimization.
+
+Before joining HKU in 2020, I worked at Hewlett Packard Labs in Palo Alto, California. I received my Ph.D. from the University of Massachusetts Amherst and my B.S. and M.S. from Peking University.
 
 #### Professional Activities
 
@@ -23,8 +27,8 @@ My name is **Can Li** (Chinese: <b class="name-ch">李燦</b>), and I am current
 ##### Journals
 
 - Guest Editor-in-Chief of IEEE Journal of the Electron Devices Society, 2025
-- Editorial Advisory board of APL Machine learning
-- Guest editor of IOP Neuromorphic Computing and Engineering 
+- Editorial Advisory Board of APL Machine Learning
+- Guest editor of IOP Neuromorphic Computing and Engineering
     - Focus issue on 3D Circuits for Neuromorphic Computing
     - Focus issue on Open Neuromorphic Simulations
 - Guest editor of Frontiers in Electronics
