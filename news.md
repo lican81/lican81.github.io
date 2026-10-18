@@ -4,6 +4,7 @@ title: News
 ---
 
 - [Sep 2026]
+  - Chengrui Yu, Jingyun Bi, and Guanyu Lu joined CANLab as Ph.D. students. Welcome aboard!
   - Our collaborative paper "[Memristive singular value decomposition](https://doi.org/10.1038/s41467-026-76272-2)" has been published in *Nature Communications*.
   - Our associative-memory research with Hewlett Packard Labs was featured in [Ta Kung Pao, Education Online (教育線上)](https://epaper.tkww.hk/a/202609/07/AP6a9dcd57e4b0911458c37ad8.html) and [Sing Tao Headline](https://www.stheadline.com/zh-hans/edu-insights/3612482/).
 

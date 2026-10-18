@@ -544,3 +544,32 @@ a.creative-commons:hover {
     font-size: 120%;
     /* font-size: 30px; */
 }
+
+/* Keep member cards aligned even when education lines have different lengths. */
+.members-grid {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 36px 40px;
+    padding: 20px;
+    margin-bottom: 36px;
+}
+.members-grid .profile_div {
+    float: none;
+    width: auto;
+    padding: 0;
+    min-width: 0;
+}
+.members-grid .profile_pic {
+    display: block;
+    width: 160px;
+    max-width: 100%;
+    height: 160px;
+    object-fit: cover;
+    margin-bottom: 8px;
+}
+@media (max-width: 640px) {
+    .members-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 24px; padding: 12px 0; }
+}
+@media (max-width: 420px) {
+    .members-grid { grid-template-columns: 1fr; }
+}
