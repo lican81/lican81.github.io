@@ -165,7 +165,7 @@ title: Members
 </div>
 
 <div class="profile_div">
-    <img src="/assets/pics/profile-placeholder.svg" class="profile_pic" alt="" width="160" height="160">
+    <img src="/assets/pics/Chengrui_Yu.jpg" class="profile_pic" alt="" width="160" height="160">
 
     Chengrui Yu<br/>
     Ph.D. Student<br/>
@@ -173,7 +173,7 @@ title: Members
 </div>
 
 <div class="profile_div">
-    <img src="/assets/pics/profile-placeholder.svg" class="profile_pic" alt="" width="160" height="160">
+    <img src="/assets/pics/Jingyun_Bi.jpg" class="profile_pic" alt="" width="160" height="160">
 
     Jingyun Bi<br/>
     Ph.D. Student<br/>
@@ -181,7 +181,7 @@ title: Members
 </div>
 
 <div class="profile_div">
-    <img src="/assets/pics/profile-placeholder.svg" class="profile_pic" alt="" width="160" height="160">
+    <img src="/assets/pics/Guanyu_Lu.jpg" class="profile_pic" alt="" width="160" height="160">
 
     Guanyu Lu<br/>
     Ph.D. Student<br/>
